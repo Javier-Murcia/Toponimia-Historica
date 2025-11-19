@@ -1,0 +1,25 @@
+PREFIX dct:       <http://purl.org/dc/terms/>
+PREFIX foaf:      <http://xmlns.com/foaf/0.1/>
+PREFIX geo:       <http://www.w3.org/2003/01/geo/wgs84_pos#>
+PREFIX geosparql: <http://www.opengis.net/ont/geosparql#>
+PREFIX lugares:   <http://www.monumentos.es/lugares/>
+PREFIX monu:      <http://www.monumentos.es/>
+PREFIX owl:       <http://www.w3.org/2002/07/owl#>
+PREFIX rdf:       <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs:      <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX skos:      <http://www.w3.org/2004/02/skos/core#>
+PREFIX tes:       <http://tesauros.mecd.es/tesauros/vocab#>
+PREFIX xml:       <http://www.w3.org/XML/1998/namespace>
+PREFIX xsd:       <http://www.w3.org/2001/XMLSchema#>
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212848>
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda .
+
+<http://www.wikidata.org/entity/Q1790370>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212848> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212568>
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda .
+
+<http://www.wikidata.org/entity/Q2219985>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212568> .

@@ -1,0 +1,683 @@
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix geosparql: <http://www.opengis.net/ont/geosparql#> .
+@prefix tes:   <http://tesauros.mecd.es/tesauros/vocab#> .
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix monu:  <http://www.monumentos.es/> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix lugares: <http://www.monumentos.es/lugares/> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217109>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217178>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217231>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217203>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217272>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217244>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217216>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217285>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217257>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217229>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217172>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217144>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217116>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217157>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217210>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217198>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217251>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217264>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217110>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217236>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217208>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217151>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217249>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217164>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217108>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217177>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217149>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217230>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217271>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217215>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217284>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212538>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217256>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217143>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217269>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217115>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217156>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217197>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217250>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217222>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217263>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217235>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212558>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217207>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217150>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217276>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217248>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217163>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217342>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217107>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217176>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217148>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217201>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217270>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217242>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217283>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217255>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217227>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217268>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217114>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217155>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217196>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217221>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217234>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217206>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217275>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217247>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217219>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217162>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217106>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217175>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217147>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217119>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217200>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217241>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212856>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217282>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217254>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217226>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217267>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217113>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217154>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217195>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217220>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217261>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217233>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217205>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217274>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217120>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217246>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217218>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217161>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217259>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217105>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217174>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217146>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217118>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217240>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217212>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217281>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212535>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217225>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212576>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217266>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217112>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217238>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217153>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217279>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217166>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217179>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217260>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217232>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217204>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217273>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217245>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217286>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217258>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217173>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217145>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217117>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217158>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217211>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217199>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217280>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217252>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217224>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217265>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217111>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217237>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212588>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217209>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217152>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217278>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217193>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Cristiana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .

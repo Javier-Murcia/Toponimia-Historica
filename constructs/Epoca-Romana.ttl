@@ -1,0 +1,1708 @@
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix geosparql: <http://www.opengis.net/ont/geosparql#> .
+@prefix tes:   <http://tesauros.mecd.es/tesauros/vocab#> .
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix monu:  <http://www.monumentos.es/> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix lugares: <http://www.monumentos.es/lugares/> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212769>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211722>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212643>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212432>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212824>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211818>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212613>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217100>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211583>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216406>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212709>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211498>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212770>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216382>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211468>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212740>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212655>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211523>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212047>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212710>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211704>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212414>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212782>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211776>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212697>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211565>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217099>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212275>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211746>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211801>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211716>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212511>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211692>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212818>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212794>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216461>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216376>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211813>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212734>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212649>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212704>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216292>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211463>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211589>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212861>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212072>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212650>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211433>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212746>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216443>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212620>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212801>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211590>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216413>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211771>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212108>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211475>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212788>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217094>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212662>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212577>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212054>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212758>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212813>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211807>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211698>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211753>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212644>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212433>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212825>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212614>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211608>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212529>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217101>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211584>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216407>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211765>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211820>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211735>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212837>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216449>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212415>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212783>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211777>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212698>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216450>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212753>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211747>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211536>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211802>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212723>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211717>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211693>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212819>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212795>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211452>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212765>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211759>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216377>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216432>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212258>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211729>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212705>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211760>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216293>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211464>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212777>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212043>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216444>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212747>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211591>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216414>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212693>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211476>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212789>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217095>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212663>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212055>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211712>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211501>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212814>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211808>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212790>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211699>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212760>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212675>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211754>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216372>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1168647>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212856>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212067>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212730>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212645>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216257>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212700>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211796>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211585>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212007>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216408>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212772>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216384>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211555>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212742>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217089>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211736>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212838>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211706>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212416>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217090>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212784>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211778>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212699>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212754>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216451>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211748>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211803>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211718>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211507>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211579>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212766>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212821>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211815>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216433>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211580>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212706>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211676>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216294>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211465>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212778>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212652>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211520>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212833>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211435>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212044>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216445>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212748>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211701>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212803>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216415>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211773>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212694>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212483>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211477>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211532>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212056>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216457>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212815>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211809>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212791>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212761>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216373>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211810>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212068>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212827>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212701>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211797>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211586>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216409>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211767>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216385>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211430>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212743>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212658>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212839>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216410>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212785>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217091>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211779>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212840>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212051>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216452>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211749>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212810>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211804>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212725>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212514>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211695>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211750>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212586>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212822>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216434>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212737>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212707>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216404>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216380>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211762>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212683>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211551>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211466>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212779>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212834>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212045>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212749>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216446>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212623>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211593>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212780>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212695>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212750>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217097>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211533>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212057>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216458>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211714>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212816>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216428>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212792>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216374>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211756>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212677>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212069>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211811>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211726>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212647>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212436>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212828>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212702>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211798>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216290>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217104>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212070>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212774>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211768>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211431>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212744>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216441>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211527>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216411>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212786>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217092>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212660>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212052>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216453>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211805>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211781>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211509>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211751>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212672>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212376>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212768>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212642>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212557>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212431>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212738>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211582>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216405>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212708>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211763>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212473>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211944>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211522>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212046>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216447>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212624>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211594>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216417>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217098>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211800>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212721>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216459>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212510>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211691>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216429>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212793>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211787>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212497>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216460>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216375>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211812>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211727>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212648>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212437>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212829>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212703>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216291>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212830>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211432>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216442>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212745>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216412>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211709>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211770>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212691>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212419>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217093>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212395>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212787>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212661>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211444>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212053>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212757>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216369>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212812>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211806>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211782>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211697>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212799>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211752>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212673>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Antigua .

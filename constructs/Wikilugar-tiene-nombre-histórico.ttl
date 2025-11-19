@@ -1,0 +1,2853 @@
+PREFIX dct:       <http://purl.org/dc/terms/>
+PREFIX foaf:      <http://xmlns.com/foaf/0.1/>
+PREFIX geo:       <http://www.w3.org/2003/01/geo/wgs84_pos#>
+PREFIX geosparql: <http://www.opengis.net/ont/geosparql#>
+PREFIX lu:        <http://www.ontologydesignpatterns.org/ont/framenet/abox/lu/>
+PREFIX lugares:   <http://www.monumentos.es/lugares/>
+PREFIX mo:        <http://purl.org/ontology/mo/>
+PREFIX monu:      <http://www.monumentos.es/>
+PREFIX owl:       <http://www.w3.org/2002/07/owl#>
+PREFIX rdf:       <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs:      <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX skos:      <http://www.w3.org/2004/02/skos/core#>
+PREFIX tes:       <http://tesauros.mecd.es/tesauros/vocab#>
+PREFIX xml:       <http://www.w3.org/XML/1998/namespace>
+PREFIX xsd:       <http://www.w3.org/2001/XMLSchema#>
+
+<http://www.wikidata.org/entity/Q20544186>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212566> .
+
+<http://www.wikidata.org/entity/Q14323>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216513> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216899> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211815> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211766> .
+
+<http://www.wikidata.org/entity/Q120172234>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216565> .
+
+<http://www.wikidata.org/entity/Q3571229>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217087> .
+
+<http://www.wikidata.org/entity/Q120171378>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212379> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216827> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211727> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216487> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216520> .
+
+<http://www.wikidata.org/entity/Q24011322>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211691> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216545> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211731> .
+
+<http://www.wikidata.org/entity/Q12225>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216488> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217276> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216584> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216507> .
+
+<http://www.wikidata.org/entity/Q975728>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216600> .
+
+<http://www.wikidata.org/entity/Q2701066>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216927> .
+
+<http://www.wikidata.org/entity/Q24009362>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211431> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216596> .
+
+<http://www.wikidata.org/entity/Q115500057>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216942> .
+
+<http://www.wikidata.org/entity/Q2790374>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211533> .
+
+<http://www.wikidata.org/entity/Q3573110>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216976> .
+
+<http://www.wikidata.org/entity/Q430454>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212787> .
+
+<http://www.wikidata.org/entity/Q23979294>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216961> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212851> .
+
+<http://www.wikidata.org/entity/Q24015159>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216923> .
+
+<http://www.wikidata.org/entity/Q1644565>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212572> .
+
+<http://www.wikidata.org/entity/Q24008496>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217274> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216696> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212528> .
+
+<http://www.wikidata.org/entity/Q281272>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211675> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211676> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216626> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212530> .
+
+<http://www.wikidata.org/entity/Q14309>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217057> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211516> .
+
+<http://www.wikidata.org/entity/Q137129>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212675> .
+
+<http://www.wikidata.org/entity/Q1157972>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216612> .
+
+<http://www.wikidata.org/entity/Q832949>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212778> .
+
+<http://www.wikidata.org/entity/Q1641785>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216453> .
+
+<http://www.wikidata.org/entity/Q24012163>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217153> .
+
+<http://www.wikidata.org/entity/Q24013240>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211679> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212730> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216622> .
+
+<http://www.wikidata.org/entity/Q673412>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212859> .
+
+<http://www.wikidata.org/entity/Q496424>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217179> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212799> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216580> .
+
+<http://www.wikidata.org/entity/Q24002822>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212783> .
+
+<http://www.wikidata.org/entity/Q1492>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212596> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211601> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212437> .
+
+<http://www.wikidata.org/entity/Q5915647>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211591> .
+
+<http://www.wikidata.org/entity/Q919046>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211583> .
+
+<http://www.wikidata.org/entity/Q14764>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212674> .
+
+
+<http://www.wikidata.org/entity/Q1330796>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216452> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212610> .
+
+<http://www.wikidata.org/entity/Q120170972>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216523> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216556> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216506> .
+
+
+<http://www.wikidata.org/entity/Q120172615>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216918> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211536> .
+
+<http://www.wikidata.org/entity/Q528530>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216617> .
+
+<http://www.wikidata.org/entity/Q1652139>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212673> .
+
+<http://www.wikidata.org/entity/Q944119>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216558> .
+
+<http://www.wikidata.org/entity/Q24010242>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212746> .
+
+<http://www.wikidata.org/entity/Q1614497>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216879> .
+
+<http://www.wikidata.org/entity/Q24013293>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216611> .
+
+<http://www.wikidata.org/entity/Q24013434>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217106> .
+
+<http://www.wikidata.org/entity/Q24001858>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217242> .
+
+<http://www.wikidata.org/entity/Q24011711>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216601> .
+
+<http://www.wikidata.org/entity/Q115500505>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217179> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212799> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216580> .
+
+<http://www.wikidata.org/entity/Q24011748>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212070> .
+
+<http://www.wikidata.org/entity/Q24011395>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216613> .
+
+<http://www.wikidata.org/entity/Q24019898>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217204> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216973> .
+
+<http://www.wikidata.org/entity/Q954556>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216937> .
+
+<http://www.wikidata.org/entity/Q23130>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217066> .
+
+<http://www.wikidata.org/entity/Q20617724>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212690> .
+
+<http://www.wikidata.org/entity/Q986557>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212792> .
+
+<http://www.wikidata.org/entity/Q230368>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211746> .
+
+<http://www.wikidata.org/entity/Q47770520>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216878> .
+
+<http://www.wikidata.org/entity/Q97648067>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216683> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217279> .
+
+<http://www.wikidata.org/entity/Q1900655>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217266> .
+
+<http://www.wikidata.org/entity/Q181359>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212750> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216869> .
+
+<http://www.wikidata.org/entity/Q192534>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217304> .
+
+<http://tesauros.mecd.es/tesauros/geografico/1203526>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216431> .
+
+<http://www.wikidata.org/entity/Q592681>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212551> .
+
+<http://www.wikidata.org/entity/Q24008524>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216938> .
+
+<http://www.wikidata.org/entity/Q40846>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217300> .
+
+<http://www.wikidata.org/entity/Q173699>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212644> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212812> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216567> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216429> .
+
+<http://www.wikidata.org/entity/Q10282>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212858> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217236> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212745> .
+
+<http://www.wikidata.org/entity/Q1443790>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212645> .
+
+<http://www.wikidata.org/entity/Q15656>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212656> .
+
+<http://www.wikidata.org/entity/Q5725626>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216604> .
+
+<http://www.wikidata.org/entity/Q6073959>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211586> .
+
+<http://www.wikidata.org/entity/Q97648118>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217136> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211726> .
+
+<http://www.wikidata.org/entity/Q56229450>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217258> .
+
+<http://www.wikidata.org/entity/Q45412>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216845> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217101> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216841> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217100> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212582> .
+
+<http://www.wikidata.org/entity/Q1631804>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216691> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212768> .
+
+<http://www.wikidata.org/entity/Q24011559>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217266> .
+
+<http://www.wikidata.org/entity/Q10305>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216501> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217081> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216537> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211562> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217193> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211776> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216509> .
+
+<http://www.wikidata.org/entity/Q1640136>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217200> .
+
+<http://www.wikidata.org/entity/Q120172503>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212067> .
+
+<http://www.wikidata.org/entity/Q574343>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211579> .
+
+<http://www.wikidata.org/entity/Q24016471>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211627> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211487> .
+
+<http://www.wikidata.org/entity/Q24013534>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217246> .
+
+<http://www.wikidata.org/entity/Q120172080>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216551> .
+
+<http://www.wikidata.org/entity/Q24015194>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216694> .
+
+<http://www.wikidata.org/entity/Q14357>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212389> .
+
+<http://www.wikidata.org/entity/Q1769947>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212701> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212600> .
+
+<http://www.wikidata.org/entity/Q52584>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217226> .
+
+<http://www.wikidata.org/entity/Q24011478>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216883> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216527> .
+
+<http://www.wikidata.org/entity/Q115499749>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217109> .
+
+<http://www.wikidata.org/entity/Q935266>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216592> .
+
+<http://www.wikidata.org/entity/Q509039>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216979> .
+
+<http://www.wikidata.org/entity/Q567563>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212793> .
+
+<http://www.wikidata.org/entity/Q426176>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211436> .
+
+<http://www.wikidata.org/entity/Q52615>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217256> .
+
+<http://www.wikidata.org/entity/Q24015321>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211522> .
+
+<http://www.wikidata.org/entity/Q24003096>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216811> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217158> .
+
+<http://www.wikidata.org/entity/Q110689238>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216555> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212436> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211474> .
+
+<http://www.wikidata.org/entity/Q1548344>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212006> .
+
+<http://www.wikidata.org/entity/Q24001992>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217119> .
+
+<http://www.wikidata.org/entity/Q14526>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212671> .
+
+<http://www.wikidata.org/entity/Q1750918>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217272> .
+
+<http://www.wikidata.org/entity/Q13855>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211610> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212639> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211551> .
+
+<http://www.wikidata.org/entity/Q24011925>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212483> .
+
+<http://www.wikidata.org/entity/Q24001192>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217072> .
+
+<http://www.wikidata.org/entity/Q1606495>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211762> .
+
+<http://www.wikidata.org/entity/Q436147>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211511> .
+
+<http://www.wikidata.org/entity/Q12896923>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212777> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216687> .
+
+<http://www.wikidata.org/entity/Q23978707>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211943> .
+
+<http://www.wikidata.org/entity/Q15090>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211509> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216579> .
+
+<http://www.wikidata.org/entity/Q846153>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212700> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216554> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211768> .
+
+<http://www.wikidata.org/entity/Q966470>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216812> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212758> .
+
+<http://www.wikidata.org/entity/Q52636>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217056> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212836> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211472> .
+
+<http://www.wikidata.org/entity/Q1448444>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211717> .
+
+<http://www.wikidata.org/entity/Q115499299>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216623> .
+
+<http://www.wikidata.org/entity/Q1446577>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216820> .
+
+<http://tesauros.mecd.es/tesauros/geografico/1110371>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217304> .
+
+<http://www.wikidata.org/entity/Q492748>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216588> .
+
+<http://www.wikidata.org/entity/Q959000>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212857> .
+
+<http://www.wikidata.org/entity/Q17744>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212107> .
+
+<http://www.wikidata.org/entity/Q1136198>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211541> .
+
+<http://www.wikidata.org/entity/Q49581>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217113> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211507> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211560> .
+
+<http://www.wikidata.org/entity/Q1246441>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217154> .
+
+<http://www.wikidata.org/entity/Q24013232>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216624> .
+
+<http://www.wikidata.org/entity/Q261085>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211464> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217281> .
+
+<http://tesauros.mecd.es/tesauros/geografico/1126486>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211541> .
+
+<http://www.wikidata.org/entity/Q97645234>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216822> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212497> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212767> .
+
+<http://www.wikidata.org/entity/Q81803>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211711> .
+
+<http://www.wikidata.org/entity/Q931780>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216887> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217230> .
+
+<http://www.wikidata.org/entity/Q47571>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212795> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212531> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216293> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216698> .
+
+<http://www.wikidata.org/entity/Q120170902>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212777> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216687> .
+
+<http://www.wikidata.org/entity/Q24011765>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211752> .
+
+<http://www.wikidata.org/entity/Q24008382>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216616> .
+
+<http://www.wikidata.org/entity/Q1628828>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216870> .
+
+<http://www.wikidata.org/entity/Q24010533>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211631> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211586> .
+
+<http://www.wikidata.org/entity/Q110688746>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211679> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212730> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216622> .
+
+<http://www.wikidata.org/entity/Q1110389>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216606> .
+
+<http://www.wikidata.org/entity/Q293130>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216605> .
+
+<http://www.wikidata.org/entity/Q1646761>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217220> .
+
+<http://www.wikidata.org/entity/Q488555>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216408> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216619> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212068> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212384> .
+
+<http://www.wikidata.org/entity/Q13934>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212655> .
+
+<http://www.wikidata.org/entity/Q842679>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216610> .
+
+<http://www.wikidata.org/entity/Q5823>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216581> .
+
+<http://www.wikidata.org/entity/Q484552>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216523> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216556> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216506> .
+
+<http://tesauros.mecd.es/tesauros/geografico/1109572>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217302> .
+
+<http://www.wikidata.org/entity/Q1753006>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216453> .
+
+<http://www.wikidata.org/entity/Q377244>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212544> .
+
+<http://www.wikidata.org/entity/Q14299>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217062> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212073> .
+
+<http://www.wikidata.org/entity/Q544635>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211486> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211628> .
+
+<http://www.wikidata.org/entity/Q1607619>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212707> .
+
+<http://www.wikidata.org/entity/Q24008766>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216897> .
+
+<http://www.wikidata.org/entity/Q24016698>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212673> .
+
+<http://www.wikidata.org/entity/Q1382293>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216449> .
+
+<http://www.wikidata.org/entity/Q642046>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211777> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211592> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211656> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212597> .
+
+<http://www.wikidata.org/entity/Q367038>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216595> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216482> .
+
+<http://www.wikidata.org/entity/Q324489>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216866> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212057> .
+
+<http://www.wikidata.org/entity/Q11967>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211554> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217112> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211555> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216578> .
+
+<http://www.wikidata.org/entity/Q15678>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212051> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212055> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212052> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212855> .
+
+<http://www.wikidata.org/entity/Q28120317>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217245> .
+
+<http://www.wikidata.org/entity/Q17760>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211942> .
+
+<http://www.wikidata.org/entity/Q24013493>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216837> .
+
+<http://www.wikidata.org/entity/Q929481>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216815> .
+
+<http://www.wikidata.org/entity/Q24012535>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216934> .
+
+<http://www.wikidata.org/entity/Q575893>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211748> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216933> .
+
+<http://www.wikidata.org/entity/Q120170944>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216942> .
+
+<http://www.wikidata.org/entity/Q8775433>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212799> .
+
+<http://www.wikidata.org/entity/Q115504154>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212645> .
+
+<http://www.wikidata.org/entity/Q984821>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216886> .
+
+<http://www.wikidata.org/entity/Q1445334>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211765> .
+
+<http://www.wikidata.org/entity/Q582778>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211533> .
+
+<http://www.wikidata.org/entity/Q24010141>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212053> .
+
+<http://www.wikidata.org/entity/Q24008475>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217252> .
+
+<http://www.wikidata.org/entity/Q338174>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216934> .
+
+<http://www.wikidata.org/entity/Q1630355>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216602> .
+
+<http://www.wikidata.org/entity/Q24016504>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212821> .
+
+<http://www.wikidata.org/entity/Q559148>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217249> .
+
+<http://www.wikidata.org/entity/Q686362>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216399> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217076> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216398> .
+
+<http://www.wikidata.org/entity/Q103846820>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212008> .
+
+<http://www.wikidata.org/entity/Q23986799>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211573> .
+
+
+<http://www.wikidata.org/entity/Q564773>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216609> .
+
+<http://www.wikidata.org/entity/Q493933>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212431> .
+
+<http://www.wikidata.org/entity/Q15098>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216882> .
+
+<http://tesauros.mecd.es/tesauros/geografico/1111110>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212006> .
+
+<http://www.wikidata.org/entity/Q6107913>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217261> .
+
+<http://tesauros.mecd.es/tesauros/geografico/1109263>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217300> .
+
+<http://www.wikidata.org/entity/Q1645962>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217211> .
+
+<http://www.wikidata.org/entity/Q115508277>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211679> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212730> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216622> .
+
+<http://www.wikidata.org/entity/Q115510379>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217300> .
+
+<http://www.wikidata.org/entity/Q733580>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211695> .
+
+<http://www.wikidata.org/entity/Q597>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216859> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216431> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212585> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216574> .
+
+<http://www.wikidata.org/entity/Q23991375>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217244> .
+
+<http://www.wikidata.org/entity/Q115499254>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216686> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216492> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216690> .
+
+<http://tesauros.mecd.es/tesauros/geografico/1110542>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217301> .
+
+<http://www.wikidata.org/entity/Q20142>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211547> .
+
+<http://www.wikidata.org/entity/Q36124>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217078> .
+
+<http://www.wikidata.org/entity/Q2263209>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216508> .
+
+<http://www.wikidata.org/entity/Q24011552>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217254> .
+
+<http://www.wikidata.org/entity/Q1375851>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216417> .
+
+<http://www.wikidata.org/entity/Q595005>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216891> .
+
+<http://www.wikidata.org/entity/Q176504>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217099> .
+
+<http://www.wikidata.org/entity/Q899884>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212622> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216981> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212623> .
+
+<http://www.wikidata.org/entity/Q1656771>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212695> .
+
+<http://www.wikidata.org/entity/Q820469>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212697> .
+
+<http://www.wikidata.org/entity/Q633345>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217120> .
+
+<http://www.wikidata.org/entity/Q1768772>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217265> .
+
+<http://www.wikidata.org/entity/Q1653421>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217173> .
+
+<http://www.wikidata.org/entity/Q10400>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216533> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216495> .
+
+<http://www.wikidata.org/entity/Q2932431>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216401> .
+
+<http://www.wikidata.org/entity/Q24019982>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216979> .
+
+<http://www.wikidata.org/entity/Q24011936>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211475> .
+
+<http://www.wikidata.org/entity/Q1641976>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217263> .
+
+<http://www.wikidata.org/entity/Q1923970>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217145> .
+
+<http://www.wikidata.org/entity/Q23982662>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212746> .
+
+<http://www.wikidata.org/entity/Q24011877>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217227> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216958> .
+
+<http://www.wikidata.org/entity/Q117676>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212583> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212588> .
+
+<http://www.wikidata.org/entity/Q1613822>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211631> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211586> .
+
+<http://www.wikidata.org/entity/Q71113>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212568> .
+
+<http://www.wikidata.org/entity/Q913215>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216837> .
+
+<http://www.wikidata.org/entity/Q854424>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216552> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216553> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211716> .
+
+<http://www.wikidata.org/entity/Q1453218>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212708> .
+
+<http://www.wikidata.org/entity/Q241767>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212747> .
+
+<http://www.wikidata.org/entity/Q12386810>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212546> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217090> .
+
+<http://www.wikidata.org/entity/Q24013053>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212672> .
+
+<http://www.wikidata.org/entity/Q115505564>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216551> .
+
+<http://www.wikidata.org/entity/Q1658547>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212053> .
+
+<http://www.wikidata.org/entity/Q14305>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216402> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211514> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217060> .
+
+<http://www.wikidata.org/entity/Q23979439>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212750> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216869> .
+
+<http://www.wikidata.org/entity/Q1917433>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216957> .
+
+<http://www.wikidata.org/entity/Q1406716>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211706> .
+
+<http://www.wikidata.org/entity/Q24011147>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217259> .
+
+<http://www.wikidata.org/entity/Q23152>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212667> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217070> .
+
+<http://www.wikidata.org/entity/Q1628531>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217268> .
+
+<http://www.wikidata.org/entity/Q23982208>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217210> .
+
+<http://www.wikidata.org/entity/Q2090529>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212786> .
+
+<http://www.wikidata.org/entity/Q20620890>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211486> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211628> .
+
+<http://www.wikidata.org/entity/Q120171556>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216978> .
+
+<http://www.wikidata.org/entity/Q956558>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212742> .
+
+<http://www.wikidata.org/entity/Q1630260>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216573> .
+
+<http://www.wikidata.org/entity/Q1631202>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216904> .
+
+<http://www.wikidata.org/entity/Q24011732>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216600> .
+
+<http://www.wikidata.org/entity/Q24012188>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212793> .
+
+<http://www.wikidata.org/entity/Q18612>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217065> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211544> .
+
+<http://www.wikidata.org/entity/Q828568>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211466> .
+
+<http://www.wikidata.org/entity/Q572760>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216923> .
+
+<http://www.wikidata.org/entity/Q484628>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216512> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216564> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216457> .
+
+<http://www.wikidata.org/entity/Q904793>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216601> .
+
+<http://www.wikidata.org/entity/Q115506589>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217114> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216810> .
+
+<http://www.wikidata.org/entity/Q23991339>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217209> .
+
+<http://www.wikidata.org/entity/Q24012571>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216573> .
+
+<http://www.wikidata.org/entity/Q24011806>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216879> .
+
+<http://www.wikidata.org/entity/Q837348>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211522> .
+
+<http://www.wikidata.org/entity/Q926144>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216683> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211465> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217279> .
+
+<http://www.wikidata.org/entity/Q1645052>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212746> .
+
+<http://www.wikidata.org/entity/Q24017561>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217263> .
+
+<http://www.wikidata.org/entity/Q12385508>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212543> .
+
+<http://www.wikidata.org/entity/Q97634236>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216413> .
+
+<http://www.wikidata.org/entity/Q55276>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212683> .
+
+
+<http://www.wikidata.org/entity/Q1637366>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217267> .
+
+<http://www.wikidata.org/entity/Q1915133>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216460> .
+
+<http://www.wikidata.org/entity/Q389205>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216868> .
+
+<http://www.wikidata.org/entity/Q572041>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212589> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212833> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212754> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216589> .
+
+<http://www.wikidata.org/entity/Q222702>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216555> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212436> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211474> .
+
+<http://www.wikidata.org/entity/Q47508>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216396> .
+
+<http://www.wikidata.org/entity/Q24014358>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216818> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216817> .
+
+<http://www.wikidata.org/entity/Q1765443>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217224> .
+
+<http://www.wikidata.org/entity/Q1641021>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216926> .
+
+<http://www.wikidata.org/entity/Q120171401>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212648> .
+
+<http://www.wikidata.org/entity/Q818341>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212830> .
+
+<http://www.wikidata.org/entity/Q120172087>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216895> .
+
+<http://www.wikidata.org/entity/Q23984607>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211464> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217281> .
+
+<http://www.wikidata.org/entity/Q24010455>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212694> .
+
+<http://www.wikidata.org/entity/Q15093>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217273> .
+
+<http://www.wikidata.org/entity/Q537017>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217212> .
+
+<http://www.wikidata.org/entity/Q913483>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211735> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216559> .
+
+<http://www.wikidata.org/entity/Q753825>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211944> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211756> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211757> .
+
+<http://www.wikidata.org/entity/Q24014376>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211718> .
+
+<http://www.wikidata.org/entity/Q623685>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212649> .
+
+<http://www.wikidata.org/entity/Q20551157>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217097> .
+
+<http://www.wikidata.org/entity/Q1628407>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217175> .
+
+<http://www.wikidata.org/entity/Q5475466>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211666> .
+
+<http://www.wikidata.org/entity/Q5765>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217338> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216982> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211470> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211457> .
+
+<http://www.wikidata.org/entity/Q193780>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216597> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211452> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211454> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211453> .
+
+<http://www.wikidata.org/entity/Q115499169>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212856> .
+
+<http://www.wikidata.org/entity/Q115501164>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211778> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211655> .
+
+<http://tesauros.mecd.es/tesauros/geografico/1115195>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217299> .
+
+<http://www.wikidata.org/entity/Q24009341>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216606> .
+
+<http://www.wikidata.org/entity/Q945653>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212624> .
+
+<http://www.wikidata.org/entity/Q82142>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216531> .
+
+<http://www.wikidata.org/entity/Q257707>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212473> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211440> .
+
+<http://www.wikidata.org/entity/Q686184>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212056> .
+
+<http://www.wikidata.org/entity/Q1148574>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216376> .
+
+<http://www.wikidata.org/entity/Q24014611>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212661> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217151> .
+
+<http://www.wikidata.org/entity/Q17181934>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212046> .
+
+<http://www.wikidata.org/entity/Q1645723>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217227> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216958> .
+
+
+<http://www.wikidata.org/entity/Q24013288>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211693> .
+
+<http://www.wikidata.org/entity/Q55182>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211566> .
+
+<http://www.wikidata.org/entity/Q24011942>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212778> .
+
+<http://www.wikidata.org/entity/Q24010420>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212693> .
+
+<http://www.wikidata.org/entity/Q24011736>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216552> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216553> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211716> .
+
+<http://www.wikidata.org/entity/Q120172176>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212662> .
+
+<http://www.wikidata.org/entity/Q24012549>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216935> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212529> .
+
+<http://www.wikidata.org/entity/Q8378>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212848> .
+
+<http://www.wikidata.org/entity/Q24013386>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217115> .
+
+<http://www.wikidata.org/entity/Q1447700>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211715> .
+
+<http://www.wikidata.org/entity/Q97647667>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216603> .
+
+<http://www.wikidata.org/entity/Q24010531>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212695> .
+
+<http://www.wikidata.org/entity/Q24016890>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216446> .
+
+<http://www.wikidata.org/entity/Q53715>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217077> .
+
+<http://www.wikidata.org/entity/Q24011553>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211635> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216884> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211519> .
+
+<http://www.wikidata.org/entity/Q842698>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217094> .
+
+<http://www.wikidata.org/entity/Q97650916>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216382> .
+
+<http://www.wikidata.org/entity/Q24020002>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216972> .
+
+<http://www.wikidata.org/entity/Q115506511>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211762> .
+
+<http://www.wikidata.org/entity/Q2665269>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212789> .
+
+<http://www.wikidata.org/entity/Q24011924>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216689> .
+
+<http://www.wikidata.org/entity/Q52626>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212617> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211469> .
+
+<http://www.wikidata.org/entity/Q23993138>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212655> .
+
+<http://www.wikidata.org/entity/Q24011697>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216547> .
+
+<http://www.wikidata.org/entity/Q24012302>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212550> .
+
+<http://www.wikidata.org/entity/Q115509668>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211440> .
+
+<http://www.wikidata.org/entity/Q12246>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212766> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216819> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216486> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217042> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216888> .
+
+<http://www.wikidata.org/entity/Q501090>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212643> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212692> .
+
+<http://www.wikidata.org/entity/Q455933>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212856> .
+
+<http://www.wikidata.org/entity/Q120173123>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212746> .
+
+<http://www.wikidata.org/entity/Q24019799>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211561> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211779> .
+
+<http://www.wikidata.org/entity/Q1646385>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212569> .
+
+<http://www.wikidata.org/entity/Q24017294>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217268> .
+
+<http://www.wikidata.org/entity/Q13154>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212433> .
+
+<http://www.wikidata.org/entity/Q5818>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212520> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216534> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216493> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216529> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211722> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211998> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216535> .
+
+<http://www.wikidata.org/entity/Q31918671>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217114> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216810> .
+
+<http://www.wikidata.org/entity/Q24019979>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211563> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217198> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211565> .
+
+<http://www.wikidata.org/entity/Q427330>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216405> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216614> .
+
+<http://www.wikidata.org/entity/Q1827689>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211635> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216884> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211519> .
+
+<http://www.wikidata.org/entity/Q24011701>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211466> .
+
+<http://www.wikidata.org/entity/Q24008761>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211706> .
+
+<http://www.wikidata.org/entity/Q115511508>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217216> .
+
+<http://www.wikidata.org/entity/Q62024360>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216447> .
+
+<http://www.wikidata.org/entity/Q115506990>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212379> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216827> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211727> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216487> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216520> .
+
+<http://www.wikidata.org/entity/Q1100437>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211701> .
+
+<http://www.wikidata.org/entity/Q1373919>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217218> .
+
+<http://www.wikidata.org/entity/Q23988889>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216595> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216482> .
+
+<http://www.wikidata.org/entity/Q14294>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211545> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217061> .
+
+<http://www.wikidata.org/entity/Q2807>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217247> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216932> .
+
+<http://www.wikidata.org/entity/Q23988738>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216603> .
+
+<http://www.wikidata.org/entity/Q24011712>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212645> .
+
+<http://www.wikidata.org/entity/Q167224>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216296> .
+
+<http://www.wikidata.org/entity/Q492735>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216557> .
+
+<http://www.wikidata.org/entity/Q1613344>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216375> .
+
+<http://www.wikidata.org/entity/Q23987299>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216813> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212840> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216514> .
+
+<http://www.wikidata.org/entity/Q24011558>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216931> .
+
+<http://www.wikidata.org/entity/Q574364>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216955> .
+
+<http://www.wikidata.org/entity/Q646620>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217233> .
+
+<http://www.wikidata.org/entity/Q14516>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212390> .
+
+<http://www.wikidata.org/entity/Q1642043>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212070> .
+
+<http://www.wikidata.org/entity/Q24015155>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217120> .
+
+<http://www.wikidata.org/entity/Q695425>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216621> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212074> .
+
+<http://www.wikidata.org/entity/Q504598>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216549> .
+
+<http://www.wikidata.org/entity/Q23984648>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211595> .
+
+<http://www.wikidata.org/entity/Q23993153>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216978> .
+
+<http://www.wikidata.org/entity/Q1983986>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216927> .
+
+<http://www.wikidata.org/entity/8717>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216519> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216540> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211449> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212521> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211769> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216484> .
+
+<http://www.wikidata.org/entity/Q24012598>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216557> .
+
+<http://www.wikidata.org/entity/Q24008841>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211701> .
+
+<http://www.wikidata.org/entity/Q36433>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212555> .
+
+<http://www.wikidata.org/entity/Q23995072>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217146> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216442> .
+
+<http://www.wikidata.org/entity/Q1917585>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217161> .
+
+<http://www.wikidata.org/entity/Q1049602>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211520> .
+
+<http://www.wikidata.org/entity/Q1751975>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217199> .
+
+<http://www.wikidata.org/entity/Q949381>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216891> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216816> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216511> .
+
+<http://www.wikidata.org/entity/Q2743536>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216451> .
+
+<http://www.wikidata.org/entity/Q14554>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212413> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217064> .
+
+<http://www.wikidata.org/entity/Q26955>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217103> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217075> .
+
+<http://www.wikidata.org/entity/Q273877>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216575> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216428> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211820> .
+
+<http://www.wikidata.org/entity/Q646725>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212846> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211439> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212007> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216498> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216585> .
+
+<http://www.wikidata.org/entity/Q1650389>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211561> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211779> .
+
+<http://www.wikidata.org/entity/Q611199>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211691> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216545> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211731> .
+
+<http://www.wikidata.org/entity/Q20118>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211546> .
+
+<http://www.wikidata.org/entity/Q984642>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217110> .
+
+<http://www.wikidata.org/entity/Q322064>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211431> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216596> .
+
+<http://www.wikidata.org/entity/Q53018328>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211620> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217178> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211594> .
+
+<http://www.wikidata.org/entity/Q24014330>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216820> .
+
+<http://www.wikidata.org/entity/Q120172808>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217211> .
+
+<http://www.wikidata.org/entity/Q932479>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217222> .
+
+<http://www.wikidata.org/entity/Q24019917>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216977> .
+
+<http://www.wikidata.org/entity/Q465085>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216889> .
+
+<http://www.wikidata.org/entity/Q370639>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216416> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211639> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211749> .
+
+<http://www.wikidata.org/entity/Q642200>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217282> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216515> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211473> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212432> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212518> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216684> .
+
+<http://www.wikidata.org/entity/Q1615043>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216823> .
+
+<http://www.wikidata.org/entity/Q24019906>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212647> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217203> .
+
+<http://www.wikidata.org/entity/Q1116829>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217215> .
+
+<http://www.wikidata.org/entity/Q120172158>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216623> .
+
+<http://www.wikidata.org/entity/Q31925404>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216499> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212614> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211780> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216561> .
+
+<http://www.wikidata.org/entity/Q1650635>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212647> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217203> .
+
+<http://www.wikidata.org/entity/Q367969>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217166> .
+
+<http://www.wikidata.org/entity/Q54936>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216508> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216507> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212710> .
+
+<http://www.wikidata.org/entity/Q958972>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212765> .
+
+<http://www.wikidata.org/entity/Q23125>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217067> .
+
+<http://www.wikidata.org/entity/Q1653139>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212709> .
+
+<http://www.wikidata.org/entity/Q24016615>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212569> .
+
+<http://www.wikidata.org/entity/Q115502670>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217231> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216928> .
+
+<http://www.wikidata.org/entity/Q970693>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216826> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212769> .
+
+<http://www.wikidata.org/entity/Q740393>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212013> .
+
+<http://www.wikidata.org/entity/Q10509>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216699> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212803> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217275> .
+
+<http://www.wikidata.org/entity/Q687315>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217153> .
+
+<http://www.wikidata.org/entity/Q842228>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217240> .
+
+<http://www.wikidata.org/entity/Q97632093>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216409> .
+
+<http://www.wikidata.org/entity/Q8826>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212004> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212838> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217342> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216697> .
+
+<http://www.wikidata.org/entity/Q7511639>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216400> .
+
+<http://www.wikidata.org/entity/Q23979215>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211440> .
+
+<http://tesauros.mecd.es/tesauros/geografico/1111132>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212836> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211472> .
+
+<http://www.wikidata.org/entity/Q1632610>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216681> .
+
+<http://www.wikidata.org/entity/Q182432>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217299> .
+
+<http://www.wikidata.org/entity/Q3178760>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212734> .
+
+<http://www.wikidata.org/entity/Q738013>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211575> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212510> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216880> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212811> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212849> .
+
+<http://www.wikidata.org/entity/Q120173130>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216693> .
+
+<http://www.wikidata.org/entity/Q1645543>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211753> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216620> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212532> .
+
+<http://www.wikidata.org/entity/Q13049257>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217105> .
+
+<http://www.wikidata.org/entity/Q1601705>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212527> .
+
+<http://www.wikidata.org/entity/Q1613587>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211699> .
+
+<http://www.wikidata.org/entity/Q1641454>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211644> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211593> .
+
+<http://www.wikidata.org/entity/Q24011728>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216610> .
+
+<http://www.wikidata.org/entity/Q820476>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212749> .
+
+<http://www.wikidata.org/entity/Q20380>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217068> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216454> .
+
+<http://www.wikidata.org/entity/Q11822>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212601> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211447> .
+
+<http://www.wikidata.org/entity/Q54888>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217170> .
+
+<http://www.wikidata.org/entity/Q697108>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217172> .
+
+<http://www.wikidata.org/entity/Q550974>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216545> .
+
+<http://www.wikidata.org/entity/Q1657998>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216929> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217255> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212534> .
+
+<http://www.wikidata.org/entity/Q830571>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212648> .
+
+<http://www.wikidata.org/entity/Q24016598>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216445> .
+
+<http://www.wikidata.org/entity/Q31282609>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212567> .
+
+<http://www.wikidata.org/entity/Q1623994>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216593> .
+
+<http://www.wikidata.org/entity/Q3331316>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212542> .
+
+<http://www.wikidata.org/entity/Q586018>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217285> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217286> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211763> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216814> .
+
+<http://www.wikidata.org/entity/Q120172263>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211699> .
+
+<http://www.wikidata.org/entity/Q13930>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217250> .
+
+<http://www.wikidata.org/entity/Q54932>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216510> .
+
+<http://www.wikidata.org/entity/Q385017>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217152> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216444> .
+
+<http://www.wikidata.org/entity/Q24010575>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212642> .
+
+<http://www.wikidata.org/entity/Q9092659>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211589> .
+
+<http://www.wikidata.org/entity/Q24008392>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217138> .
+
+<http://www.wikidata.org/entity/Q23979349>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217226> .
+
+<http://www.wikidata.org/entity/Q115957>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217269> .
+
+<http://www.wikidata.org/entity/Q24014328>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216829> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211770> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212475> .
+
+<http://tesauros.mecd.es/tesauros/geografico/1116185>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212004> .
+
+<http://www.wikidata.org/entity/Q99151>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216290> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212538> .
+
+<http://tesauros.mecd.es/tesauros/geografico/1109696>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217298> .
+
+<http://www.wikidata.org/entity/Q95015>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211463> .
+
+<http://www.wikidata.org/entity/Q1451119>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216412> .
+
+<http://www.wikidata.org/entity/Q24001966>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217221> .
+
+<http://www.wikidata.org/entity/Q97616795>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212483> .
+
+<http://www.wikidata.org/entity/Q1647926>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212744> .
+
+<http://www.wikidata.org/entity/Q15696>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216458> .
+
+<http://www.wikidata.org/entity/Q1658590>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212746> .
+
+<http://www.wikidata.org/entity/Q951778>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217149> .
+
+<http://www.wikidata.org/entity/Q14353>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212640> .
+
+<http://www.wikidata.org/entity/Q24011897>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217222> .
+
+<http://www.wikidata.org/entity/Q1750939>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216693> .
+
+<http://www.wikidata.org/entity/Q24013046>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217157> .
+
+<http://www.wikidata.org/entity/Q639412>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216964> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212604> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211622> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217208> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211787> .
+
+<http://www.wikidata.org/entity/Q854403>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212774> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216543> .
+
+<http://www.wikidata.org/entity/Q51600977>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216555> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212436> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211474> .
+
+<http://www.wikidata.org/entity/Q24012963>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211782> .
+
+<http://www.wikidata.org/entity/Q1637576>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216377> .
+
+<http://www.wikidata.org/entity/Q1640382>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216977> .
+
+<http://www.wikidata.org/entity/Q120172719>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211629> .
+
+<http://www.wikidata.org/entity/Q385923>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212839> .
+
+<http://www.wikidata.org/entity/Q969988>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212790> .
+
+<http://www.wikidata.org/entity/Q985602>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217162> .
+
+<http://www.wikidata.org/entity/Q95027>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212853> .
+
+<http://www.wikidata.org/entity/Q24010166>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216893> .
+
+<http://www.wikidata.org/entity/Q24013942>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216598> .
+
+<http://www.wikidata.org/entity/Q695202>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216292> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212540> .
+
+<http://www.wikidata.org/entity/Q1649616>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217246> .
+
+<http://www.wikidata.org/entity/Q56014864>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217256> .
+
+<http://www.wikidata.org/entity/Q5702198>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212702> .
+
+<http://www.wikidata.org/entity/Q24008758>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211695> .
+
+<http://www.wikidata.org/entity/Q1639660>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217176> .
+
+<http://www.wikidata.org/entity/Q1654773>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217259> .
+
+<http://www.wikidata.org/entity/Q47483>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212752> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212753> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216881> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211755> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212602> .
+
+<http://www.wikidata.org/entity/Q201496>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216370> .
+
+<http://www.wikidata.org/entity/Q1639432>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216369> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217201> .
+
+<http://www.wikidata.org/entity/Q524820>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216871> .
+
+<http://www.wikidata.org/entity/Q5690905>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212856> .
+
+<http://www.wikidata.org/entity/Q7038>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212834> .
+
+<http://www.wikidata.org/entity/Q15679>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216496> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216513> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216541> .
+
+<http://www.wikidata.org/entity/Q501674>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216599> .
+
+<http://www.wikidata.org/entity/Q55269>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212658> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212533> .
+
+<http://www.wikidata.org/entity/Q120173555>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217225> .
+
+<http://www.wikidata.org/entity/Q609094>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216490> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216682> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216517> .
+
+<http://www.wikidata.org/entity/Q54942>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216508> .
+
+<http://www.wikidata.org/entity/Q821860>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216443> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217155> .
+
+<http://www.wikidata.org/entity/Q31916251>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216588> .
+
+<http://www.wikidata.org/entity/Q501077>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216828> .
+
+<http://www.wikidata.org/entity/Q1993398>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211573> .
+
+<http://www.wikidata.org/entity/Q385070>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216942> .
+
+<http://www.wikidata.org/entity/Q4391777>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212514> .
+
+<http://www.wikidata.org/entity/Q24011313>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216614> .
+
+<http://www.wikidata.org/entity/Q986552>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216551> .
+
+<http://www.wikidata.org/entity/Q473914>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216877> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212048> .
+
+<http://www.wikidata.org/entity/Q555134>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216613> .
+
+
+
+<http://www.wikidata.org/entity/Q120170910>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217147> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212794> .
+
+<http://www.wikidata.org/entity/Q24012648>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216921> .
+
+<http://www.wikidata.org/entity/Q1617639>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212672> .
+
+<http://www.wikidata.org/entity/Q1645918>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211751> .
+
+<http://www.wikidata.org/entity/Q14336>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217174> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216924> .
+
+<http://www.wikidata.org/entity/Q24017189>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217231> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216928> .
+
+<http://www.wikidata.org/entity/Q23987965>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211637> .
+
+<http://www.wikidata.org/entity/Q1648110>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212737> .
+
+<http://www.wikidata.org/entity/Q115498986>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211782> .
+
+<http://www.wikidata.org/entity/Q24010383>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212787> .
+
+<http://www.wikidata.org/entity/Q649612>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216372> .
+
+<http://www.wikidata.org/entity/Q1921204>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217106> .
+
+<http://www.wikidata.org/entity/Q1615390>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216897> .
+
+<http://www.wikidata.org/entity/Q120173180>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216935> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212529> .
+
+<http://www.wikidata.org/entity/Q24012411>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212737> .
+
+<http://www.wikidata.org/entity/Q23994676>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212852> .
+
+<http://www.wikidata.org/entity/Q854444>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216550> .
+
+<http://www.wikidata.org/entity/Q24011941>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212756> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212757> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217280> .
+
+<http://www.wikidata.org/entity/Q24012682>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216461> .
+
+<http://www.wikidata.org/entity/Q24017497>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216904> .
+
+<http://www.wikidata.org/entity/Q1632442>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216893> .
+
+<http://www.wikidata.org/entity/Q1769777>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216459> .
+
+<http://www.wikidata.org/entity/Q24013496>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216826> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212769> .
+
+<http://www.wikidata.org/entity/Q559140>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216616> .
+
+<http://www.wikidata.org/entity/Q986733>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217231> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216928> .
+
+<http://www.wikidata.org/entity/Q794238>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211625> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212798> .
+
+<http://www.wikidata.org/entity/Q1014709>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216831> .
+
+<http://www.wikidata.org/entity/Q842652>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212385> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211747> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216939> .
+
+<http://www.wikidata.org/entity/Q24019916>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216369> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217201> .
+
+<http://www.wikidata.org/entity/Q301437>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216547> .
+
+<http://www.wikidata.org/entity/Q24012480>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211778> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211655> .
+
+<http://www.wikidata.org/entity/Q24011416>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216597> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211452> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211454> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211453> .
+
+<http://www.wikidata.org/entity/Q489205>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212810> .
+
+<http://www.wikidata.org/entity/Q107711400>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216393> .
+
+<http://www.wikidata.org/entity/Q23986391>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211512> .
+
+<http://www.wikidata.org/entity/Q485129>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212847> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211584> .
+
+<http://www.wikidata.org/entity/Q1643731>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217146> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216442> .
+
+<http://www.wikidata.org/entity/Q1765206>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212694> .
+
+<http://www.wikidata.org/entity/Q23987066>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212054> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212854> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216896> .
+
+<http://www.wikidata.org/entity/Q23985957>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217251> .
+
+<http://www.wikidata.org/entity/Q120170904>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211746> .
+
+<http://www.wikidata.org/entity/Q732971>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217115> .
+
+
+<http://www.wikidata.org/entity/Q115499539>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216619> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212068> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212384> .
+
+<http://www.wikidata.org/entity/Q820224>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217237> .
+
+<http://www.wikidata.org/entity/Q1445232>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216679> .
+
+<http://www.wikidata.org/entity/Q24012567>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216591> .
+
+<http://www.wikidata.org/entity/Q5123>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217114> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216810> .
+
+<http://www.wikidata.org/entity/Q95614068>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212740> .
+
+<http://www.wikidata.org/entity/Q13159>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216570> .
+
+<http://www.wikidata.org/entity/Q533277>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216825> .
+
+<http://www.wikidata.org/entity/Q638181>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216611> .
+
+<http://www.wikidata.org/entity/Q97647674>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216603> .
+
+<http://www.wikidata.org/entity/Q15468>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212043> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211606> .
+
+<http://www.wikidata.org/entity/Q120172209>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212660> .
+
+<http://www.wikidata.org/entity/Q14558>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211515> .
+
+<http://www.wikidata.org/entity/Q24011535>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217267> .
+
+<http://www.wikidata.org/entity/Q1448886>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212825> .
+
+<http://www.wikidata.org/entity/Q6128038>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211518> .
+
+<http://www.wikidata.org/entity/Q210887>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212777> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216687> .
+
+<http://www.wikidata.org/entity/Q1641632>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216625> .
+
+<http://www.wikidata.org/entity/Q24015188>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217172> .
+
+<http://www.wikidata.org/entity/Q24016479>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216968> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217177> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212725> .
+
+<http://www.wikidata.org/entity/Q828723>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212379> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216827> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211727> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216487> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216520> .
+
+<http://www.wikidata.org/entity/Q24016485>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211625> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212798> .
+
+<http://www.wikidata.org/entity/Q1114855>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216447> .
+
+<http://www.wikidata.org/entity/Q1092146>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212483> .
+
+<http://www.wikidata.org/entity/Q1448460>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211475> .
+
+<http://www.wikidata.org/entity/Q24012365>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217237> .
+
+<http://www.wikidata.org/entity/Q1445412>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211718> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211518> .
+
+<http://www.wikidata.org/entity/Q502975>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216562> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217108> .
+
+<http://www.wikidata.org/entity/Q24008473>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211533> .
+
+<http://www.wikidata.org/entity/Q120170919>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211458> .
+
+<http://www.wikidata.org/entity/Q24009400>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216612> .
+
+<http://www.wikidata.org/entity/Q13153>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216521> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216505> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216572> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212699> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212698> .
+
+
+<http://www.wikidata.org/entity/Q115506590>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217114> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216810> .
+
+<http://tesauros.mecd.es/tesauros/geografico/1128501>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212008> .
+
+<http://www.wikidata.org/entity/Q783114>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216395> .
+
+<http://www.wikidata.org/entity/Q97645743>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216821> .
+
+<http://www.wikidata.org/entity/Q24017262>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217264> .
+
+<http://www.wikidata.org/entity/Q54889>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216507> .
+
+<http://www.wikidata.org/entity/Q14325>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217156> .
+
+<http://www.wikidata.org/entity/Q516549>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216384> .
+
+<http://www.wikidata.org/entity/Q332989>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216594> .
+
+<http://www.wikidata.org/entity/Q31424>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211542> .
+
+<http://www.wikidata.org/entity/Q815339>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216968> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217177> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212725> .
+
+<http://www.wikidata.org/entity/Q1637315>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216967> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211557> .
+
+<http://www.wikidata.org/entity/Q24011952>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216686> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216492> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216690> .
+
+<http://www.wikidata.org/entity/Q244747>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216577> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212743> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217238> .
+
+<http://www.wikidata.org/entity/Q1231003>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216938> .
+
+<http://www.wikidata.org/entity/Q29>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212472> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211445> .
+
+
+<http://www.wikidata.org/entity/Q24012613>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216592> .
+
+<http://www.wikidata.org/entity/Q120173319>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216459> .
+
+<http://www.wikidata.org/entity/Q389171>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217251> .
+
+<http://www.wikidata.org/entity/Q24011940>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216560> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211477> .
+
+<http://www.wikidata.org/entity/Q24014346>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217285> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217286> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211763> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216814> .
+
+<http://www.wikidata.org/entity/Q24017122>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217229> .
+
+<http://www.wikidata.org/entity/Q14314>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217143> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217089> .
+
+<http://www.wikidata.org/entity/Q487786>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217274> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216696> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212528> .
+
+<http://www.wikidata.org/entity/Q24011420>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216599> .
+
+<http://www.wikidata.org/entity/Q15682>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211437> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211444> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211438> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211434> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212049> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216568> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211436> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211442> .
+
+<http://www.wikidata.org/entity/Q120173620>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211430> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216608> .
+
+<http://www.wikidata.org/entity/Q1447333>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216890> .
+
+<http://www.wikidata.org/entity/Q24008424>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212734> .
+
+<http://www.wikidata.org/entity/Q125393020>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217299> .
+
+<http://www.wikidata.org/entity/Q11125>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211818> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212558> .
+
+<http://www.wikidata.org/entity/Q5702229>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217260> .
+
+<http://www.wikidata.org/entity/Q916664>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216560> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211477> .
+
+<http://www.wikidata.org/entity/Q24013248>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216621> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212074> .
+
+<http://www.wikidata.org/entity/Q46940>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217248> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216930> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211582> .
+
+<http://www.wikidata.org/entity/Q23992060>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212704> .
+
+<http://www.wikidata.org/entity/Q1645553>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211729> .
+
+<http://www.wikidata.org/entity/Q24012656>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216460> .
+
+<http://www.wikidata.org/entity/Q1769796>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216965> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1168647> .
+
+<http://www.wikidata.org/entity/Q23122>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217069> .
+
+<http://www.wikidata.org/entity/Q24012786>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217248> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216930> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211582> .
+
+<http://www.wikidata.org/entity/Q920126>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216590> .
+
+<http://www.wikidata.org/entity/Q31926054>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216605> .
+
+<http://www.wikidata.org/entity/Q120171274>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212056> .
+
+<http://www.wikidata.org/entity/Q24011213>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211486> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211628> .
+
+<http://www.wikidata.org/entity/Q24016459>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211644> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211593> .
+
+<http://www.wikidata.org/entity/Q329984>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212069> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216618> .
+
+<http://www.wikidata.org/entity/Q24019849>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212742> .
+
+<http://www.wikidata.org/entity/Q491929>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216374> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216604> .
+
+<http://www.wikidata.org/entity/Q1645833>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217221> .
+
+<http://www.wikidata.org/entity/Q81802>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216507> .
+
+<http://www.wikidata.org/entity/Q23982870>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212837> .
+
+<http://tesauros.mecd.es/tesauros/geografico/1128657>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217303> .
+
+<http://www.wikidata.org/entity/Q1768703>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217210> .
+
+<http://www.wikidata.org/entity/Q1650460>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212782> .
+
+<http://www.wikidata.org/entity/Q23979963>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211523> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217270> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216922> .
+
+
+<http://www.wikidata.org/entity/Q1354411>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216623> .
+
+<http://www.wikidata.org/entity/Q24011708>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211762> .
+
+<http://www.wikidata.org/entity/Q683023>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216385> .
+
+<http://www.wikidata.org/entity/Q965028>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212748> .
+
+<http://www.wikidata.org/entity/Q31916364>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212617> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211469> .
+
+<http://www.wikidata.org/entity/Q83247>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212541> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211813> .
+
+<http://www.wikidata.org/entity/Q668384>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212047> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216894> .
+
+<http://www.wikidata.org/entity/Q49562>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211430> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216608> .
+
+<http://www.wikidata.org/entity/Q24009394>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216607> .
+
+<http://www.wikidata.org/entity/Q120172377>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212816> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216838> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212818> .
+
+<http://www.wikidata.org/entity/Q115506510>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211762> .
+
+<http://www.wikidata.org/entity/Q30906639>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217285> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217286> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211763> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216814> .
+
+<http://www.wikidata.org/entity/Q114290402>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216925> .
+
+<http://www.wikidata.org/entity/Q987453>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212008> .
+
+<http://www.wikidata.org/entity/Q120171369>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216968> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217177> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212725> .
+
+<http://www.wikidata.org/entity/Q8851>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211448> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216504> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216583> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211435> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212843> .
+
+<http://www.wikidata.org/entity/Q115510438>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212780> .
+
+<http://www.wikidata.org/entity/Q1639065>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211698> .
+
+<http://www.wikidata.org/entity/Q225515>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212663> .
+
+<http://www.wikidata.org/entity/Q162615>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211455> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212506> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211754> .
+
+<http://www.wikidata.org/entity/Q201689>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217301> .
+
+<http://www.wikidata.org/entity/Q24011459>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217272> .
+
+<http://www.wikidata.org/entity/Q749180>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216516> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216489> .
+
+<http://www.wikidata.org/entity/Q24015190>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217116> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216971> .
+
+<http://www.wikidata.org/entity/Q630933>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217254> .
+
+<http://www.wikidata.org/entity/Q837051>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216960> .
+
+<http://www.wikidata.org/entity/Q1631897>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216921> .
+
+<http://www.wikidata.org/entity/Q732090>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211541> .
+
+<http://www.wikidata.org/entity/Q583280>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217209> .
+
+<http://www.wikidata.org/entity/Q1611693>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216822> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212497> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212767> .
+
+<http://www.wikidata.org/entity/Q200201>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212703> .
+
+<http://www.wikidata.org/entity/Q84165268>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216394> .
+
+<http://www.wikidata.org/entity/Q23990528>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217216> .
+
+<http://www.wikidata.org/entity/Q24004024>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217232> .
+
+<http://www.wikidata.org/entity/Q996175>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216895> .
+
+<http://www.wikidata.org/entity/Q255845>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217147> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212794> .
+
+<http://www.wikidata.org/entity/Q2453722>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217278> .
+
+<http://www.wikidata.org/entity/Q11953>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217257> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216701> .
+
+<http://www.wikidata.org/entity/Q115499916>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211637> .
+
+<http://www.wikidata.org/entity/Q854373>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216587> .
+
+<http://www.wikidata.org/entity/Q120172440>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216870> .
+
+<http://www.wikidata.org/entity/Q904212>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212652> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217111> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216959> .
+
+<http://www.wikidata.org/entity/Q568278>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216829> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211770> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212475> .
+
+<http://www.wikidata.org/entity/Q492741>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216591> .
+
+<http://www.wikidata.org/entity/Q24019922>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217200> .
+
+<http://www.wikidata.org/entity/Q24012555>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216937> .
+
+<http://www.wikidata.org/entity/Q1391501>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212642> .
+
+<http://www.wikidata.org/entity/Q179948>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212419> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216832> .
+
+<http://www.wikidata.org/entity/Q662059>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212049> .
+
+<http://www.wikidata.org/entity/Q1613373>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216433> .
+
+<http://www.wikidata.org/entity/Q8818>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216502> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216538> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212822> .
+
+<http://www.wikidata.org/entity/Q24013291>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216617> .
+
+<http://www.wikidata.org/entity/Q31482>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211821> .
+
+<http://www.wikidata.org/entity/Q943437>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216931> .
+
+<http://www.wikidata.org/entity/Q24013185>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212675> .
+
+<http://www.wikidata.org/entity/Q1629957>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211627> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211487> .
+
+<http://www.wikidata.org/entity/Q24019927>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217195> .
+
+<http://tesauros.mecd.es/tesauros/geografico/1111133>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211470> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211457> .
+
+<http://www.wikidata.org/entity/Q1628400>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211736> .
+
+<http://www.wikidata.org/entity/Q987679>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212814> .
+
+<http://www.wikidata.org/entity/Q1642258>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216918> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211536> .
+
+<http://www.wikidata.org/entity/Q142778>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212054> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212854> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216896> .
+
+<http://www.wikidata.org/entity/Q5836>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212386> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216526> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216500> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211760> .
+
+<http://www.wikidata.org/entity/Q203042>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217283> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216692> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217284> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211476> .
+
+<http://www.wikidata.org/entity/Q23993252>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217224> .
+
+<http://www.wikidata.org/entity/Q115508649>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217268> .
+
+<http://www.wikidata.org/entity/Q1614490>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212072> .
+
+<http://www.wikidata.org/entity/Q564768>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216598> .
+
+<http://www.wikidata.org/entity/Q120171026>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216825> .
+
+<http://www.wikidata.org/entity/Q12303>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212756> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212757> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216688> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217280> .
+
+<http://www.wikidata.org/entity/Q108283288>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211604> .
+
+<http://www.wikidata.org/entity/Q1596031>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217093> .
+
+<http://www.wikidata.org/entity/Q1229367>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211781> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211576> .
+
+<http://www.wikidata.org/entity/Q284894>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211458> .
+
+<http://www.wikidata.org/entity/Q24010266>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216868> .
+
+<http://www.wikidata.org/entity/Q24012844>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211590> .
+
+<http://www.wikidata.org/entity/Q1642806>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212693> .
+
+<http://www.wikidata.org/entity/Q1645054>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216624> .
+
+<http://www.wikidata.org/entity/Q120172329>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216544> .
+
+<http://www.wikidata.org/entity/Q2839512>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211778> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211655> .
+
+<http://www.wikidata.org/entity/Q23982245>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216886> .
+
+<http://www.wikidata.org/entity/Q13589>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211599> .
+
+<http://www.wikidata.org/entity/Q766898>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216975> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217207> .
+
+<http://www.wikidata.org/entity/Q3357261>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212514> .
+
+<http://www.wikidata.org/entity/Q16509>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212646> .
+
+<http://www.wikidata.org/entity/Q1643791>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212053> .
+
+
+<http://www.wikidata.org/entity/Q15088>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211609> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212603> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211527> .
+
+<http://www.wikidata.org/entity/Q837062>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217104> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217234> .
+
+<http://www.wikidata.org/entity/Q1643644>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211752> .
+
+<http://www.wikidata.org/entity/Q835559>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211620> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217178> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211594> .
+
+<http://www.wikidata.org/entity/Q115506509>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211762> .
+
+<http://www.wikidata.org/entity/Q17765>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217058> .
+
+<http://www.wikidata.org/entity/Q1766853>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216445> .
+
+<http://www.wikidata.org/entity/Q1153945>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211704> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216847> .
+
+<http://www.wikidata.org/entity/Q24011944>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211717> .
+
+<http://tesauros.mecd.es/tesauros/geografico/1113243>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211512> .
+
+<http://www.wikidata.org/entity/Q24014248>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212790> .
+
+<http://www.wikidata.org/entity/Q940842>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211685> .
+
+<http://www.wikidata.org/entity/Q24008770>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211704> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216847> .
+
+<http://www.wikidata.org/entity/Q97>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216403> .
+
+<http://www.wikidata.org/entity/Q10965>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217086> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211513> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217063> .
+
+<http://www.wikidata.org/entity/Q579668>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217264> .
+
+<http://www.wikidata.org/entity/Q52631>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211433> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212618> .
+
+<http://www.wikidata.org/entity/Q1161395>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216380> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216818> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216817> .
+
+<http://www.wikidata.org/entity/Q115499551>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216811> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217158> .
+
+<http://www.wikidata.org/entity/Q2616360>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212008> .
+
+<http://www.wikidata.org/entity/Q115508276>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211679> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212730> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216622> .
+
+<http://www.wikidata.org/entity/Q24012249>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212782> .
+
+<http://www.wikidata.org/entity/Q637863>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216686> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216492> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216690> .
+
+<http://www.wikidata.org/entity/Q98392>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211526> .
+
+<http://www.wikidata.org/entity/Q835092>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211632> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211585> .
+
+<http://www.wikidata.org/entity/Q24011904>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217219> .
+
+<http://www.wikidata.org/entity/Q1916434>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212780> .
+
+<http://www.wikidata.org/entity/Q24012217>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212792> .
+
+<http://www.wikidata.org/entity/Q115498987>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211782> .
+
+<http://www.wikidata.org/entity/Q213251>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211767> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211758> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212511> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211738> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212275> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216824> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216839> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216525> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212502> .
+
+<http://www.wikidata.org/entity/Q372556>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217235> .
+
+<http://www.wikidata.org/entity/Q24011955>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217283> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216692> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217284> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211476> .
+
+<http://tesauros.mecd.es/tesauros/geografico/1119975>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212617> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211469> .
+
+<http://www.wikidata.org/entity/Q24017536>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211583> .
+
+<http://www.wikidata.org/entity/Q1648614>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211523> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217270> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216922> .
+
+<http://www.wikidata.org/entity/Q105967>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217302> .
+
+<http://www.wikidata.org/entity/Q120170967>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216889> .
+
+<http://www.wikidata.org/entity/Q24011827>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212072> .
+
+<http://www.wikidata.org/entity/Q8246625>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217109> .
+
+<http://www.wikidata.org/entity/Q120172806>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211751> .
+
+<http://www.wikidata.org/entity/Q64010>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216972> .
+
+<http://www.wikidata.org/entity/Q113363213>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216544> .
+
+<http://www.wikidata.org/entity/Q24010444>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217148> .
+
+<http://www.wikidata.org/entity/Q24011256>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216871> .
+
+<http://www.wikidata.org/entity/Q927965>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211512> .
+
+<http://www.wikidata.org/entity/Q120173154>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217199> .
+
+<http://www.wikidata.org/entity/Q15681>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216291> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216548> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216532> .
+
+<http://www.wikidata.org/entity/Q24011352>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216615> .
+
+<http://www.wikidata.org/entity/Q967136>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217204> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216973> .
+
+<http://www.wikidata.org/entity/Q120172792>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211729> .
+
+<http://www.wikidata.org/entity/Q5831>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216582> .
+
+<http://www.wikidata.org/entity/Q3752138>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216456> .
+
+<http://www.wikidata.org/entity/Q23982576>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216927> .
+
+<http://www.wikidata.org/entity/Q8810>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212474> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212801> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216536> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216483> .
+
+<http://www.wikidata.org/entity/Q24019886>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217205> .
+
+<http://www.wikidata.org/entity/Q24016551>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212788> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217340> .
+
+<http://www.wikidata.org/entity/Q2449922>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216873> .
+
+<http://www.wikidata.org/entity/Q14358>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212389> .
+
+<http://www.wikidata.org/entity/Q1606028>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217091> .
+
+<http://www.wikidata.org/entity/Q189749>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217107> .
+
+<http://www.wikidata.org/entity/Q120172099>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211520> .
+
+<http://tesauros.mecd.es/tesauros/geografico/1111268>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212835> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211471> .
+
+<http://www.wikidata.org/entity/Q6050145>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216441> .
+
+<http://www.wikidata.org/entity/Q8828>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212835> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216497> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211471> .
+
+<http://www.wikidata.org/entity/Q120173117>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216929> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217255> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212534> .
+
+<http://tesauros.mecd.es/tesauros/geografico/1130652>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217296> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217295> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217297> .
+
+<http://www.wikidata.org/entity/Q13904>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211508> .
+
+<http://www.wikidata.org/entity/Q24016461>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216969> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217196> .
+
+<http://www.wikidata.org/entity/Q24019853>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216975> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217207> .
+
+<http://www.wikidata.org/entity/Q24015189>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217117> .
+
+<http://www.wikidata.org/entity/Q24012611>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216602> .
+
+<http://www.wikidata.org/entity/Q8757>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212828> .
+
+<http://www.wikidata.org/entity/Q23987663>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216619> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212068> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212384> .
+
+<http://www.wikidata.org/entity/Q1770153>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212734> .
+
+<http://www.wikidata.org/entity/Q24013254>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216625> .
+
+<http://www.wikidata.org/entity/Q1609760>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217148> .
+
+<http://www.wikidata.org/entity/Q14311>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217071> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211543> .
+
+<http://www.wikidata.org/entity/Q24014331>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216822> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212497> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212767> .
+
+<http://www.wikidata.org/entity/Q24016823>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217150> .
+
+<http://www.wikidata.org/entity/Q13939>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212861> .
+
+<http://www.wikidata.org/entity/Q695488>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217118> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216494> .
+
+<http://tesauros.mecd.es/tesauros/geografico/1128193>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211437> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211438> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212049> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211436> .
+
+<http://www.wikidata.org/entity/Q1908295>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217150> .
+
+<http://www.wikidata.org/entity/Q23980419>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211768> .
+
+<http://www.wikidata.org/entity/Q986089>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211778> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211655> .
+
+<http://www.wikidata.org/entity/Q120171994>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211685> .
+
+<http://www.wikidata.org/entity/Q503856>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212563> .
+
+<http://www.wikidata.org/entity/Q244521>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211712> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211709> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212258> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211733> .
+
+<http://www.wikidata.org/entity/Q120171511>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216587> .
+
+<http://www.wikidata.org/entity/Q603155>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217164> .
+
+<http://www.wikidata.org/entity/Q1639202>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216969> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217196> .
+
+<http://www.wikidata.org/entity/Q379372>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212548> .
+
+<http://www.wikidata.org/entity/Q24011822>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211759> .
+
+<http://www.wikidata.org/entity/Q24011734>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212774> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216543> .
+
+<http://www.wikidata.org/entity/Q983546>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217195> .
+
+<http://www.wikidata.org/entity/Q24013081>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217152> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216444> .
+
+<http://www.wikidata.org/entity/Q695889>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216295> .
+
+<http://www.wikidata.org/entity/Q984645>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211608> .
+
+<http://www.wikidata.org/entity/Q23991293>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216577> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212743> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217238> .
+
+<http://www.wikidata.org/entity/Q959012>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216883> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216527> .
+
+<http://www.wikidata.org/entity/Q24009401>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216604> .
+
+<http://www.wikidata.org/entity/Q24013404>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212605> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216576> .
+
+<http://www.wikidata.org/entity/Q622819>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216892> .
+
+<http://www.wikidata.org/entity/Q7511633>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217088> .
+
+<http://www.wikidata.org/entity/Q1993055>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217229> .
+
+<http://www.wikidata.org/entity/Q23988256>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216570> .
+
+<http://www.wikidata.org/entity/Q1647106>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216461> .
+
+<http://www.wikidata.org/entity/Q47475>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216911> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212395> .
+
+<http://www.wikidata.org/entity/Q1615179>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212816> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216838> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212818> .
+
+<http://www.wikidata.org/entity/Q1642171>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212821> .
+
+<http://www.wikidata.org/entity/Q927931>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216528> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211501> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212378> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216542> .
+
+<http://www.wikidata.org/entity/Q97622509>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211762> .
+
+<http://www.wikidata.org/entity/Q12812>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216499> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212614> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211780> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216561> .
+
+<http://www.wikidata.org/entity/Q273413>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216813> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212840> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216514> .
+
+<http://www.wikidata.org/entity/Q2508364>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216371> .
+
+<http://www.wikidata.org/entity/Q23980294>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212008> .
+
+<http://www.wikidata.org/entity/Q12233>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212705> .
+
+<http://www.wikidata.org/entity/Q1654390>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217258> .
+
+<http://www.wikidata.org/entity/Q5813>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217296> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217295> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217297> .
+
+<http://www.wikidata.org/entity/Q81978>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211771> .
+
+<http://www.wikidata.org/entity/Q97622221>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211765> .
+
+<http://www.wikidata.org/entity/Q1633451>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217252> .
+
+<http://www.wikidata.org/entity/Q120174142>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212433> .
+
+<http://www.wikidata.org/entity/Q17952>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216418> .
+
+<http://www.wikidata.org/entity/Q23987679>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216955> .
+
+<http://www.wikidata.org/entity/Q244324>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211773> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216546> .
+
+<http://www.wikidata.org/entity/Q24016497>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217175> .
+
+<http://www.wikidata.org/entity/Q12431>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217074> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216448> .
+
+<http://www.wikidata.org/entity/Q776113>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217144> .
+
+<http://www.wikidata.org/entity/Q24013425>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217107> .
+
+<http://www.wikidata.org/entity/Q768261>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212539> .
+
+<http://www.wikidata.org/entity/Q14513>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212657> .
+
+<http://www.wikidata.org/entity/Q24010185>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212053> .
+
+<http://www.wikidata.org/entity/Q15688>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212577> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212576> .
+
+<http://www.wikidata.org/entity/Q15684>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212677> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212850> .
+
+<http://www.wikidata.org/entity/Q13745>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212721> .
+
+<http://www.wikidata.org/entity/Q9094143>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211432> .
+
+<http://www.wikidata.org/entity/Q15699>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212557> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212556> .
+
+<http://www.wikidata.org/entity/Q24009568>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212045> .
+
+<http://www.wikidata.org/entity/Q45>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212560> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212554> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212536> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212547> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212553> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212584> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212573> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212562> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212574> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212587> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212545> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212579> .
+
+<http://www.wikidata.org/entity/Q773408>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212535> .
+
+<http://www.wikidata.org/entity/Q24011335>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216614> .
+
+<http://www.wikidata.org/entity/Q63092>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216685> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212382> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216518> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212380> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211498> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216491> .
+
+<http://www.wikidata.org/entity/Q1757489>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216935> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212529> .
+
+<http://www.wikidata.org/entity/Q1631896>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211759> .
+
+<http://www.wikidata.org/entity/Q827393>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216689> .
+
+<http://www.wikidata.org/entity/Q1607695>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216565> .
+
+<http://www.wikidata.org/entity/Q1632828>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212067> .
+
+<http://www.wikidata.org/entity/Q1631261>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216397> .
+
+<http://www.wikidata.org/entity/Q31925095>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216555> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212436> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211474> .
+
+<http://www.wikidata.org/entity/Q967535>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217229> .
+
+<http://www.wikidata.org/entity/Q12991>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212044> .
+
+<http://www.wikidata.org/entity/Q817204>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211563> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217198> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211565> .
+
+<http://www.wikidata.org/entity/Q984583>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212599> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212613> .
+
+<http://www.wikidata.org/entity/Q24011419>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216609> .
+
+<http://www.wikidata.org/entity/Q11959>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212650> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216830> .
+
+<http://www.wikidata.org/entity/Q1157971>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216936> .
+
+<http://www.wikidata.org/entity/Q951930>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216615> .
+
+<http://www.wikidata.org/entity/Q15551>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212723> .
+
+<http://www.wikidata.org/entity/Q24013398>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217110> .
+
+<http://www.wikidata.org/entity/Q23992087>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216926> .
+
+<http://www.wikidata.org/entity/Q983564>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217163> .
+
+<http://www.wikidata.org/entity/Q1157964>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216607> .
+
+<http://www.wikidata.org/entity/Q120172282>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217136> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211726> .
+
+<http://www.wikidata.org/entity/Q375851>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211679> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212730> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216622> .
+
+<http://www.wikidata.org/entity/Q24015335>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211632> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211585> .
+
+<http://www.wikidata.org/entity/Q1645000>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217092> .
+
+<http://www.wikidata.org/entity/Q931379>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216978> .
+
+<http://www.wikidata.org/entity/Q23986000>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211685> .
+
+<http://www.wikidata.org/entity/Q750968>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216961> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212851> .
+
+<http://www.wikidata.org/entity/Q24014349>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216490> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216682> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216517> .
+
+<http://www.wikidata.org/entity/Q24009377>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216679> .
+
+<http://www.wikidata.org/entity/Q465078>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212537> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211812> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212608> .
+
+<http://www.wikidata.org/entity/Q24024949>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212709> .
+
+<http://www.wikidata.org/entity/Q44901>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212815> .
+
+<http://www.wikidata.org/entity/Q15695>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212586> .
+
+<http://www.wikidata.org/entity/Q1764602>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211637> .
+
+<http://www.wikidata.org/entity/Q673625>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212788> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217340> .
+
+<http://tesauros.mecd.es/tesauros/geografico/1203519>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216430> .
+
+<http://tesauros.mecd.es/tesauros/geografico/1119976>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212618> .
+
+<http://www.wikidata.org/entity/Q1628353>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212824> .
+
+<http://www.wikidata.org/entity/Q675298>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212770> .
+
+<http://www.wikidata.org/entity/Q1410>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216586> .
+
+<http://www.wikidata.org/entity/Q24003073>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217241> .
+
+<http://www.wikidata.org/entity/Q10998433>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212559> .
+
+<http://www.wikidata.org/entity/Q24011729>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216680> .
+
+<http://www.wikidata.org/entity/Q23145>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212666> .
+
+<http://www.wikidata.org/entity/Q23978817>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217300> .
+
+<http://www.wikidata.org/entity/Q986572>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216446> .
+
+<http://www.wikidata.org/entity/Q76516549>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216430> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211548> .
+
+<http://www.wikidata.org/entity/Q120172882>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212744> .
+
+<http://www.wikidata.org/entity/Q1447741>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216544> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216411> .
+
+<http://www.wikidata.org/entity/Q24012596>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216558> .
+
+<http://www.wikidata.org/entity/Q24011937>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216691> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212768> .
+
+<http://www.wikidata.org/entity/Q26824>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211548> .
+
+<http://www.wikidata.org/entity/Q1650608>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212783> .
+
+<http://www.wikidata.org/entity/Q1386351>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217136> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211726> .
+
+<http://www.wikidata.org/entity/Q24013275>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216681> .
+
+<http://www.wikidata.org/entity/Q1447425>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216680> .
+
+<http://www.wikidata.org/entity/Q24015308>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212649> .
+
+<http://www.wikidata.org/entity/Q604318>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216450> .
+
+<http://www.wikidata.org/entity/Q178925>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217298> .
+
+<http://www.wikidata.org/entity/Q13064>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217095> .
+
+<http://www.wikidata.org/entity/Q490472>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211580> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216627> .
+
+<http://www.wikidata.org/entity/Q1651638>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217119> .
+
+<http://www.wikidata.org/entity/Q120171547>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216683> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217279> .
+
+<http://www.wikidata.org/entity/Q1613282>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216603> .
+
+<http://www.wikidata.org/entity/Q978587>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217197> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216700> .
+
+<http://www.wikidata.org/entity/Q373720>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216432> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212580> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216840> .
+
+<http://www.wikidata.org/entity/Q1983287>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217225> .
+
+<http://www.wikidata.org/entity/Q500494>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212552> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212829> .
+
+<http://www.wikidata.org/entity/Q24012225>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217145> .
+
+<http://www.wikidata.org/entity/Q49550>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216980> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212620> .
+
+<http://www.wikidata.org/entity/Q1640141>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217205> .
+
+<http://www.wikidata.org/entity/Q81972>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216530> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216510> .
+
+<http://www.wikidata.org/entity/Q1767516>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217271> .
+
+<http://www.wikidata.org/entity/Q1644852>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217206> .
+
+<http://www.wikidata.org/entity/Q24011603>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211639> , <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211749> .
+
+<http://www.wikidata.org/entity/Q1036287>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217303> .
+
+<http://www.wikidata.org/entity/Q1635350>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217219> .
+
+<http://www.wikidata.org/entity/Q17747>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216392> .
+
+<http://www.wikidata.org/entity/Q695456>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211693> .
+
+<http://www.wikidata.org/entity/Q3393729>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211438> .
+
+<http://www.wikidata.org/entity/Q24016888>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212780> .
+
+<http://www.wikidata.org/entity/Q24010355>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212824> .
+
+<http://www.wikidata.org/entity/Q24002258>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211692> .
+
+<http://www.wikidata.org/entity/Q24011412>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216545> .
+
+<http://www.wikidata.org/entity/Q1639301>
+        lugares:Tiene_nombre_histórico  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211629> .

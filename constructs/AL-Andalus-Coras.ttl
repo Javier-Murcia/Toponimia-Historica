@@ -1,0 +1,138 @@
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix geosparql: <http://www.opengis.net/ont/geosparql#> .
+@prefix tes:   <http://tesauros.mecd.es/tesauros/vocab#> .
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix monu:  <http://www.monumentos.es/> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix lugares: <http://www.monumentos.es/lugares/> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216528>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216509>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216531>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216512>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216518>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216521>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216527>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216508>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216530>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216511>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216517>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216520>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216526>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216507>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216510>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216516>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216525>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216515>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216524>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216514>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216523>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216529>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216532>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216513>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216519>
+        a                            lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        lugares:LugHistóricoÉpoca    monu:Edad_Media .

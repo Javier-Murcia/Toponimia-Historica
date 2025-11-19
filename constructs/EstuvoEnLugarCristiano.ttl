@@ -1,0 +1,815 @@
+PREFIX dct:       <http://purl.org/dc/terms/>
+PREFIX foaf:      <http://xmlns.com/foaf/0.1/>
+PREFIX geo:       <http://www.w3.org/2003/01/geo/wgs84_pos#>
+PREFIX geosparql: <http://www.opengis.net/ont/geosparql#>
+PREFIX lugares:   <http://www.monumentos.es/lugares/>
+PREFIX monu:      <http://www.monumentos.es/>
+PREFIX owl:       <http://www.w3.org/2002/07/owl#>
+PREFIX rdf:       <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs:      <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX skos:      <http://www.w3.org/2004/02/skos/core#>
+PREFIX tes:       <http://tesauros.mecd.es/tesauros/vocab#>
+PREFIX xml:       <http://www.w3.org/XML/1998/namespace>
+PREFIX xsd:       <http://www.w3.org/2001/XMLSchema#>
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217249>
+        lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+<http://www.wikidata.org/entity/Q30346834>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217249> .
+
+<http://www.wikidata.org/entity/Q16577662>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217257> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217257>
+        lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+<http://www.wikidata.org/entity/Q2888064>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217257> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217233>
+        lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+<http://www.wikidata.org/entity/Q18811442>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217233> .
+
+<http://www.wikidata.org/entity/Q5911793>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217238> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217238>
+        lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+<http://www.wikidata.org/entity/Q6057617>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217238> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217106>
+        lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+<http://www.wikidata.org/entity/Q5776833>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217106> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217235>
+        lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+<http://www.wikidata.org/entity/Q19844626>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217235> .
+
+<http://www.wikidata.org/entity/Q389210>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217236> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217236>
+        lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+<http://www.wikidata.org/entity/Q3111473>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217236> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217240>
+        lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+<http://www.wikidata.org/entity/Q63226648>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217240> .
+
+<http://www.wikidata.org/entity/Q59594623>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217153> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217153>
+        lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+<http://www.wikidata.org/entity/Q107613012>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217153> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217108>
+        lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+<http://www.wikidata.org/entity/Q2942584>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217108> .
+
+<http://www.wikidata.org/entity/Q64848260>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217218> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217218>
+        lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+<http://www.wikidata.org/entity/Q6091441>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217218> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217156>
+        lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+<http://www.wikidata.org/entity/Q1627991>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217156> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217112>
+        lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+<http://www.wikidata.org/entity/Q2942691>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217112> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217163>
+        lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+<http://www.wikidata.org/entity/Q17606577>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217163> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217113>
+        lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+<http://www.wikidata.org/entity/Q55848226>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217113> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217161>
+        lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+<http://www.wikidata.org/entity/Q18003845>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217161> .
+
+<http://www.wikidata.org/entity/Q115534650>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212576> .
+
+<http://www.wikidata.org/entity/Q16577933>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212576> .
+
+<http://www.wikidata.org/entity/Q55231707>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212576> .
+
+<http://www.wikidata.org/entity/Q1402296>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212576> .
+
+<http://www.wikidata.org/entity/Q16542677>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212576> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212576>
+        lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+<http://www.wikidata.org/entity/Q6102071>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212576> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217118>
+        lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+<http://www.wikidata.org/entity/Q2942543>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217118> .
+
+<http://www.wikidata.org/entity/Q12266923>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217246> .
+
+<http://www.wikidata.org/entity/Q12266902>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217246> .
+
+<http://www.wikidata.org/entity/Q25478702>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217246> .
+
+<http://www.wikidata.org/entity/Q65924033>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217246> .
+
+<http://www.wikidata.org/entity/Q65924039>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217246> .
+
+<http://www.wikidata.org/entity/Q25474101>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217246> .
+
+<http://www.wikidata.org/entity/Q65924027>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217246> .
+
+<http://www.wikidata.org/entity/Q65948155>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217246> .
+
+<http://www.wikidata.org/entity/Q25473941>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217246> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217246>
+        lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+<http://www.wikidata.org/entity/Q65924041>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217246> .
+
+<http://www.wikidata.org/entity/Q105958762>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217342> .
+
+<http://www.wikidata.org/entity/Q90283832>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217342> .
+
+<http://www.wikidata.org/entity/Q11920533>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217342> .
+
+<http://www.wikidata.org/entity/Q108386915>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217342> .
+
+<http://www.wikidata.org/entity/Q355575>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217342> .
+
+<http://www.wikidata.org/entity/Q108429911>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217342> .
+
+<http://www.wikidata.org/entity/Q1298819>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217342> .
+
+<http://www.wikidata.org/entity/Q261707>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217342> .
+
+<http://www.wikidata.org/entity/Q43128776>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217342> .
+
+<http://www.wikidata.org/entity/Q105958585>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217342> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217342>
+        lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+<http://www.wikidata.org/entity/Q1334706>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217342> .
+
+<http://www.wikidata.org/entity/Q19833322>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217234> .
+
+<http://www.wikidata.org/entity/Q19833403>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217234> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217234>
+        lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+<http://www.wikidata.org/entity/Q1934670>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217234> .
+
+<http://www.wikidata.org/entity/Q11682925>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212538> .
+
+<http://www.wikidata.org/entity/Q16577676>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212538> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212538>
+        lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+<http://www.wikidata.org/entity/Q1361548>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212538> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217147>
+        lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+<http://www.wikidata.org/entity/Q5909702>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217147> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217166>
+        lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+<http://www.wikidata.org/entity/Q11952307>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217166> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217210>
+        lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+<http://www.wikidata.org/entity/Q34461949>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217210> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217208>
+        lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+<http://www.wikidata.org/entity/Q2942832>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217208> .
+
+<http://www.wikidata.org/entity/Q9007686>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217274> .
+
+<http://www.wikidata.org/entity/Q2942573>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217274> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217274>
+        lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+<http://www.wikidata.org/entity/Q5912124>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217274> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217155>
+        lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+<http://www.wikidata.org/entity/Q5910640>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217155> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217275>
+        lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+<http://www.wikidata.org/entity/Q17586734>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217275> .
+
+<http://www.wikidata.org/entity/Q1354033>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217193> .
+
+<http://www.wikidata.org/entity/Q2196869>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217193> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217193>
+        lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+<http://www.wikidata.org/entity/Q1335931>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217193> .
+
+<http://www.wikidata.org/entity/Q20901409>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217164> .
+
+<http://www.wikidata.org/entity/Q20985349>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217164> .
+
+<http://www.wikidata.org/entity/Q20895424>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217164> .
+
+<http://www.wikidata.org/entity/Q20895092>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217164> .
+
+<http://www.wikidata.org/entity/Q21089297>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217164> .
+
+<http://www.wikidata.org/entity/Q108257167>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217164> .
+
+<http://www.wikidata.org/entity/Q20985430>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217164> .
+
+<http://www.wikidata.org/entity/Q65205102>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217164> .
+
+<http://www.wikidata.org/entity/Q20985480>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217164> .
+
+<http://www.wikidata.org/entity/Q20901087>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217164> .
+
+<http://www.wikidata.org/entity/Q20985428>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217164> .
+
+<http://www.wikidata.org/entity/Q20985470>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217164> .
+
+<http://www.wikidata.org/entity/Q20985488>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217164> .
+
+<http://www.wikidata.org/entity/Q20901097>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217164> .
+
+<http://www.wikidata.org/entity/Q65204983>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217164> .
+
+<http://www.wikidata.org/entity/Q20985486>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217164> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217164>
+        lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+<http://www.wikidata.org/entity/Q20985458>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217164> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217143>
+        lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+<http://www.wikidata.org/entity/Q2889253>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217143> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217178>
+        lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+<http://www.wikidata.org/entity/Q5757738>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217178> .
+
+<http://www.wikidata.org/entity/Q388287>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217230> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217230>
+        lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+<http://www.wikidata.org/entity/Q9034345>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217230> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212558>
+        lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+<http://www.wikidata.org/entity/Q21006157>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212558> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217256>
+        lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+<http://www.wikidata.org/entity/Q965302>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217256> .
+
+<http://www.wikidata.org/entity/Q7414379>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217247> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217247>
+        lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+<http://www.wikidata.org/entity/Q3656832>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217247> .
+
+<http://www.wikidata.org/entity/Q5912598>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217280> .
+
+<http://www.wikidata.org/entity/Q6403204>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217280> .
+
+<http://www.wikidata.org/entity/Q5117110>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217280> .
+
+<http://www.wikidata.org/entity/Q2942688>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217280> .
+
+<http://www.wikidata.org/entity/Q5812252>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217280> .
+
+<http://www.wikidata.org/entity/Q5117175>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217280> .
+
+<http://www.wikidata.org/entity/Q5086881>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217280> .
+
+<http://www.wikidata.org/entity/Q5912173>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217280> .
+
+<http://www.wikidata.org/entity/Q9007019>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217280> .
+
+<http://www.wikidata.org/entity/Q6021323>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217280> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217280>
+        lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+<http://www.wikidata.org/entity/Q113134566>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217280> .
+
+<http://www.wikidata.org/entity/Q20015477>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217276> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217276>
+        lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+<http://www.wikidata.org/entity/Q2419290>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217276> .
+
+<http://www.wikidata.org/entity/Q16552553>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217273> .
+
+<http://www.wikidata.org/entity/Q42904680>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217273> .
+
+<http://www.wikidata.org/entity/Q2942638>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217273> .
+
+<http://www.wikidata.org/entity/Q6121504>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217273> .
+
+<http://www.wikidata.org/entity/Q5911077>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217273> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217273>
+        lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+<http://www.wikidata.org/entity/Q16577926>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217273> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217207>
+        lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+<http://www.wikidata.org/entity/Q65082594>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217207> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217221>
+        lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+<http://www.wikidata.org/entity/Q20850338>
+        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217221> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217233>
+                lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+        <http://www.wikidata.org/entity/Q19883347>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217233> .
+
+        <http://www.wikidata.org/entity/Q5910305>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217238> .
+
+        <http://www.wikidata.org/entity/Q5911763>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217238> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217238>
+                lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+        <http://www.wikidata.org/entity/Q2942843>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217238> .
+
+        <http://www.wikidata.org/entity/Q19839363>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217235> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217235>
+                lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+        <http://www.wikidata.org/entity/Q19844597>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217235> .
+
+        <http://www.wikidata.org/entity/Q3756728>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217236> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217236>
+                lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+        <http://www.wikidata.org/entity/Q1276503>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217236> .
+
+        <http://www.wikidata.org/entity/Q19598169>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217240> .
+
+        <http://www.wikidata.org/entity/Q5117169>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217240> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217240>
+                lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+        <http://www.wikidata.org/entity/Q20492640>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217240> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217148>
+                lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+        <http://www.wikidata.org/entity/Q114876577>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217148> .
+
+        <http://www.wikidata.org/entity/Q33665752>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217176> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217176>
+                lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+        <http://www.wikidata.org/entity/Q33667161>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217176> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217203>
+                lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+        <http://www.wikidata.org/entity/Q29345622>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217203> .
+
+        <http://www.wikidata.org/entity/Q108731012>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217112> .
+
+        <http://www.wikidata.org/entity/Q50306776>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217112> .
+
+        <http://www.wikidata.org/entity/Q50306963>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217112> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217112>
+                lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+        <http://www.wikidata.org/entity/Q2750400>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217112> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212535>
+                lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+        <http://www.wikidata.org/entity/Q5757750>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212535> .
+
+        <http://www.wikidata.org/entity/Q15126957>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217113> .
+
+        <http://www.wikidata.org/entity/Q19861281>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217113> .
+
+        <http://www.wikidata.org/entity/Q3573289>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217113> .
+
+        <http://www.wikidata.org/entity/Q3573326>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217113> .
+
+        <http://www.wikidata.org/entity/Q19860732>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217113> .
+
+        <http://www.wikidata.org/entity/Q2410105>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217113> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217113>
+                lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+        <http://www.wikidata.org/entity/Q1389060>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217113> .
+
+        <http://www.wikidata.org/entity/Q18007615>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217161> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217161>
+                lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+        <http://www.wikidata.org/entity/Q65205929>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217161> .
+
+        <http://www.wikidata.org/entity/Q2887123>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212576> .
+
+        <http://www.wikidata.org/entity/Q115534650>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212576> .
+
+        <http://www.wikidata.org/entity/Q27123972>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212576> .
+
+        <http://www.wikidata.org/entity/Q48367876>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212576> .
+
+        <http://www.wikidata.org/entity/Q55231370>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212576> .
+
+        <http://www.wikidata.org/entity/Q1402296>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212576> .
+
+        <http://www.wikidata.org/entity/Q43117936>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212576> .
+
+        <http://www.wikidata.org/entity/Q5911138>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212576> .
+
+        <http://www.wikidata.org/entity/Q15788327>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212576> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212576>
+                lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+        <http://www.wikidata.org/entity/Q18172786>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212576> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217146>
+                lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+        <http://www.wikidata.org/entity/Q114864565>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217146> .
+
+        <http://www.wikidata.org/entity/Q43158767>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217342> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217342>
+                lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+        <http://www.wikidata.org/entity/Q108429911>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217342> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217107>
+                lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+        <http://www.wikidata.org/entity/Q29367891>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217107> .
+
+        <http://www.wikidata.org/entity/Q11947227>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217166> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217166>
+                lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+        <http://www.wikidata.org/entity/Q31075352>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217166> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217149>
+                lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+        <http://www.wikidata.org/entity/Q5910582>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217149> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217115>
+                lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+        <http://www.wikidata.org/entity/Q18226579>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217115> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217111>
+                lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+        <http://www.wikidata.org/entity/Q2219886>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217111> .
+
+        <http://www.wikidata.org/entity/Q5910640>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217155> .
+
+        <http://www.wikidata.org/entity/Q5911373>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217155> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217155>
+                lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+        <http://www.wikidata.org/entity/Q9034340>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217155> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217145>
+                lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+        <http://www.wikidata.org/entity/Q15791361>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217145> .
+
+        <http://www.wikidata.org/entity/Q55883563>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217193> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217193>
+                lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+        <http://www.wikidata.org/entity/Q2196869>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217193> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217164>
+                lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+        <http://www.wikidata.org/entity/Q8350458>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217164> .
+
+        <http://www.wikidata.org/entity/Q16449586>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217143> .
+
+        <http://www.wikidata.org/entity/Q205136>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217143> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217143>
+                lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+        <http://www.wikidata.org/entity/Q5117170>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217143> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217178>
+                lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+        <http://www.wikidata.org/entity/Q5776824>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217178> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212558>
+                lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+        <http://www.wikidata.org/entity/Q2942708>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212558> .
+
+        <http://www.wikidata.org/entity/Q43088525>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217154> .
+
+        <http://www.wikidata.org/entity/Q14541067>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217154> .
+
+        <http://www.wikidata.org/entity/Q59751621>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217154> .
+
+        <http://www.wikidata.org/entity/Q43088517>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217154> .
+
+        <http://www.wikidata.org/entity/Q18195801>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217154> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217154>
+                lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+        <http://www.wikidata.org/entity/Q114736699>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217154> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217256>
+                lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+        <http://www.wikidata.org/entity/Q5912612>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217256> .
+
+        <http://www.wikidata.org/entity/Q5551118>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217247> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217247>
+                lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+        <http://www.wikidata.org/entity/Q5911280>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217247> .
+
+        <http://www.wikidata.org/entity/Q931736>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217195> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217195>
+                lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+        <http://www.wikidata.org/entity/Q29345521>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217195> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217197>
+                lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+        <http://www.wikidata.org/entity/Q5146988>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217197> .
+
+        <http://www.wikidata.org/entity/Q20021434>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217209> .
+
+        <http://www.wikidata.org/entity/Q11682904>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217209> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217209>
+                lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+        <http://www.wikidata.org/entity/Q5757670>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217209> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217221>
+                lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+        <http://www.wikidata.org/entity/Q11681542>
+                monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217221> .
+
+                <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217113>
+                        lugares:LugHistóricoCultura  monu:Cultura_Crsitiana .
+
+                <http://www.wikidata.org/entity/Q19861063>
+                        monu:Estuvo_situado_en  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217113> .
+                        

@@ -1,0 +1,752 @@
+PREFIX dct:       <http://purl.org/dc/terms/>
+PREFIX foaf:      <http://xmlns.com/foaf/0.1/>
+PREFIX geo:       <http://www.w3.org/2003/01/geo/wgs84_pos#>
+PREFIX geosparql: <http://www.opengis.net/ont/geosparql#>
+PREFIX lugares:   <http://www.monumentos.es/lugares/>
+PREFIX mo:        <http://purl.org/ontology/mo/>
+PREFIX monu:      <http://www.monumentos.es/>
+PREFIX owl:       <http://www.w3.org/2002/07/owl#>
+PREFIX rdf:       <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs:      <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX skos:      <http://www.w3.org/2004/02/skos/core#>
+PREFIX tes:       <http://tesauros.mecd.es/tesauros/vocab#>
+PREFIX xml:       <http://www.w3.org/XML/1998/namespace>
+PREFIX xsd:       <http://www.w3.org/2001/XMLSchema#>
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211514>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q14305>;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        rdfs:label  "Anas flumen"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217076>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:LugHistóricoÉpoca  monu:Edad_Media ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q686362>;
+        rdfs:label  "Yabal al-Baranis"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212073>
+        rdf:type    lugares:Lugar_Histórico;
+          lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q14299>;
+          lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        rdfs:label  "Durius flumen"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216370>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q201496>;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        rdfs:label  "Idubeda"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216401>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q2932431>;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        rdfs:label  "Charidemi Promunturium"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217103>
+        rdf:type    lugares:Lugar_Histórico;
+         lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q26955> ;
+         lugares:LugHistóricoÉpoca  monu:Edad_Antigua ;
+        rdfs:label  "Solorius Mons"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212657>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q14513> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        rdfs:label  "Salia flumen"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212013>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q740393>;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        rdfs:label  "Ticis flumen"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216395>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q783114> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        rdfs:label  "Alebus flumen"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217068>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q20380>;
+        lugares:LugHistóricoÉpoca  monu:Edad_Media ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        rdfs:label  "Xalon"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211542>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q31424>;
+        lugares:LugHistóricoÉpoca  monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        rdfs:label  "Rubricatum flumen"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211518>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q1445412>;
+          lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q6128038>;
+          lugares:LugHistóricoÉpoca  monu:Edad_Antigua ;
+          lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        rdfs:label  "Cassius Mons"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211515>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q14558> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        rdfs:label  "Limia flumen"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216398>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q686362>;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        rdfs:label  "Oretana Iuga"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217077>
+lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q53715>;
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:LugHistóricoÉpoca  monu:Edad_Media ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        rdfs:label  "al-Sarrat"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212640>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q14353>;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        rdfs:label  "Nerva flumen"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212667>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q23152> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        rdfs:label  "Cinga flumen"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216371>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q2508364>;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        rdfs:label  "Orospeda"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217062>
+        rdf:type    lugares:Lugar_Histórico;
+         lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q14299> ;
+         lugares:LugHistóricoÉpoca  monu:Edad_Media ;
+         lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        rdfs:label  "Duwayro"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216402>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q14305> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        rdfs:label  "Anae ostium fluminis"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216418>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q17952>;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        rdfs:label  "Barbesula flumen"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217070>
+        rdf:type    lugares:Lugar_Histórico;
+      lugares:Se_refiere_a_lugar_actual  <http://www.wikidata.org/entity/Q23152> ;
+      lugares:LugHistóricoÉpoca  monu:Edad_Media ;
+      lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        rdfs:label  "Nahr al-Zaytun"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217057>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual  <http://www.wikidata.org/entity/Q14309>;
+        lugares:LugHistóricoÉpoca  monu:Edad_Media ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        rdfs:label  "Wadi-l-Kabir"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216396>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q47508> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        rdfs:label  "Pallantia flumen"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217069>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q23122>;
+        lugares:LugHistóricoÉpoca  monu:Edad_Media ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        rdfs:label  "Siluqa"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211543>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q14311> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        rdfs:label  "Sucro flumen"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217071>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q14311> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_Media ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        rdfs:label  "Suqar"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212690>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q20617724> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        rdfs:label  "Areva flumen"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217066>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q23130>;
+        lugares:LugHistóricoÉpoca  monu:Edad_Media ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        rdfs:label  "Yillaq"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212656>
+        rdf:type    lugares:Lugar_Histórico;
+      lugares:Se_refiere_a_lugar_actual   <http://www.wikidata.org/entity/Q15656>;
+      lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        rdfs:label  "Munda flumen"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216399>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q686362> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        rdfs:label  "Castulonensis Saltus"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217078>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q36124>;
+        lugares:LugHistóricoÉpoca  monu:Edad_Media ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        rdfs:label  "al-Zokak"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217096>
+        rdf:type    lugares:Lugar_Histórico;
+        rdfs:label  "Dorioy Potamoy Ekbolai"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211513>
+        rdf:type    lugares:Lugar_Histórico;
+         lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q10965>;
+         lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        rdfs:label  "Iberus flumen"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217063>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q10965>;
+        lugares:LugHistóricoÉpoca  monu:Edad_Media ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        rdfs:label  "Ibro"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211450>
+        rdf:type    lugares:Lugar_Histórico;
+        rdfs:label  "Sinus Tartesicus"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217075>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q26955>;
+        lugares:LugHistóricoÉpoca  monu:Edad_Media ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        rdfs:label  "Yabal al-Taly"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212390>
+        rdf:type    lugares:Lugar_Histórico;
+          lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q14516>;
+          lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        rdfs:label  "Nailoy flumen"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217058>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q17765>;
+        lugares:LugHistóricoÉpoca  monu:Edad_Media ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        rdfs:label  "Wadi l-Ahmar"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217060>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q14305>;
+        lugares:LugHistóricoÉpoca  monu:Edad_Media ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        rdfs:label  "Wadi Ana"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217087>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q3571229>;
+        rdfs:label  "Iberi fontes"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216400>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q7511639> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        rdfs:label  "Tugiensis Saltus"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216397>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q1631261>;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        rdfs:label  "Anae fluvvii fontes"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212389>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q14357> ;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q14358>;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        rdfs:label  "Sauga flumen"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212000>
+        rdf:type    lugares:Lugar_Histórico;
+        rdfs:label  "Clodiamus flumen"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212617>
+        rdf:type    lugares:Lugar_Histórico;
+        rdfs:label  "Colubraria"@es;
+        lugares:Se_refiere_a_lugar_actual
+                <http://tesauros.mecd.es/tesauros/geografico/1119975>, <http://www.wikidata.org/entity/Q31916364> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212004>
+        rdf:type    lugares:Lugar_Histórico;
+        rdfs:label  "Capraria"@es;
+        lugares:LugHistóricoÉpoca  monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:Se_refiere_a_lugar_actual
+                <http://tesauros.mecd.es/tesauros/geografico/1116185> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212836>
+        rdf:type    lugares:Lugar_Histórico;
+        rdfs:label  "Baliares Minor"@es;
+        lugares:LugHistóricoÉpoca  monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:Se_refiere_a_lugar_actual
+                <http://tesauros.mecd.es/tesauros/geografico/1111132>, <http://www.wikidata.org/entity/Q52636> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212835>
+        rdf:type    lugares:Lugar_Histórico;
+        rdfs:label  "Baliares Maior"@es;
+        lugares:LugHistóricoÉpoca  monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:Se_refiere_a_lugar_actual
+                <http://tesauros.mecd.es/tesauros/geografico/1111268>, <http://www.wikidata.org/entity/Q8828> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217338>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q5765> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        rdfs:label  "Baliares"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217067>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q23125>;
+        lugares:LugHistóricoÉpoca  monu:Edad_Media ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        rdfs:label  "Baltas"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212671>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q14526> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        rdfs:label  "Navia flumen"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212674>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q14764> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        rdfs:label  "Astura flumen"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211442>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q15682> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_Antigua ;
+        rdfs:label  "Aphrodisias"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216456>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q3752138>;
+        lugares:LugHistóricoÉpoca  monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        rdfs:label  "Durii fontes"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212666>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q23145>;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        rdfs:label  "Sicoris flumen"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212646>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q16509> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        rdfs:label  "Tagonius flumen"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211821>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q31482> ;
+        lugares:LugHistóricoÉpoca   monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        rdfs:label  "Alba flumen"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216394>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q84165268> ;
+        lugares:LugHistóricoÉpoca   monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        rdfs:label  "Naccararum Palus"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216454>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q20380>;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        rdfs:label  "Salo flumen"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211547>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q20142> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        rdfs:label  "Udiva flumen"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217072>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q24001192>;
+        lugares:LugHistóricoÉpoca  monu:Edad_Media ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        rdfs:label  "Wad al-Abyad"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211546>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q20118> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        rdfs:label  "Turis flumen"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217064>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q14554> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_Media ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        rdfs:label  "Minyo"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212413>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q14554> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        rdfs:label  "Minius flumen"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217065>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q18612> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_Media ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        rdfs:label  "Tadiru"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211544>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q18612> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        rdfs:label  "Tader flumen"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217074>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q12431> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_Media ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        rdfs:label  "al-Biriniyuh"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216448>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q12431> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        rdfs:label  "Pyrenaei Iuga"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217061>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q14294> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_Media ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        rdfs:label  "Tayuh"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217088>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q7511633> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        rdfs:label  "Tagi fontes"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211545>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q14294> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        rdfs:label  "Tagus flumen"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216393>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q107711400> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        rdfs:label  "Palus Etrephaea"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217086>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q10965> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        rdfs:label  "Hiberus flumen"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216392>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q17747> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        rdfs:label  "Urium flumen"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212107>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q17744> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        rdfs:label  "Luxia flumen"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211516>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q14309> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        rdfs:label  "Baetis flumen"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211942>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q17760>;
+        lugares:LugHistóricoÉpoca  monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        rdfs:label  "Singilis flumen"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211460>
+        rdf:type    lugares:Lugar_Histórico;
+        rdfs:label  "Calpe Mons"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216403>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q97> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        rdfs:label  "Atlanticus Oceanus"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211943>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q23978707> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        rdfs:label  "Maenuba flumen"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216982>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q5765> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_Media ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        rdfs:label  "al-Jaza'ir al-Sharquiya"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211438>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q3393729> ;
+        rdfs:label  "Kotinoussa"@es;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura monu:Cultura_Fenicia, monu:Cultura_Griega ;
+        lugares:Se_refiere_a_lugar_actual
+                <http://tesauros.mecd.es/tesauros/geografico/1128193> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211437>
+        rdf:type    lugares:Lugar_Histórico;
+        rdfs:label  "Erytheia"@es;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Fenicia,  monu:Cultura_Griega ;
+        lugares:Se_refiere_a_lugar_actual
+                <http://tesauros.mecd.es/tesauros/geografico/1128193> , <http://www.wikidata.org/entity/Q15682> ;.
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211436>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        rdfs:label  "Antipolis"@es;
+        lugares:Se_refiere_a_lugar_actual
+                <http://tesauros.mecd.es/tesauros/geografico/1128193>, <http://www.wikidata.org/entity/Q426176> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212049>
+        rdf:type    lugares:Lugar_Histórico;
+        rdfs:label  "Gadeirai"@es;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Fenicia,  monu:Cultura_Griega ;
+        lugares:Se_refiere_a_lugar_actual
+                <http://tesauros.mecd.es/tesauros/geografico/1128193>, <http://www.wikidata.org/entity/Q662059> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217296>
+        rdf:type    lugares:Lugar_Histórico;
+        lugares:LugHistóricoÉpoca  monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        rdfs:label  "Fortunatae insulae"@es;
+        lugares:Se_refiere_a_lugar_actual
+                <http://tesauros.mecd.es/tesauros/geografico/1130652>, <http://www.wikidata.org/entity/Q5813> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217303>
+        rdf:type    lugares:Lugar_Histórico;
+        rdfs:label  "Insula de lo fero"@es;
+        lugares:LugHistóricoÉpoca  monu:Edad_Media ;
+        lugares:Se_refiere_a_lugar_actual
+                <http://tesauros.mecd.es/tesauros/geografico/1128657>, <http://www.wikidata.org/entity/Q1036287> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217304>
+        rdf:type    lugares:Lugar_Histórico;
+        rdfs:label  "Forte ventura"@es;
+lugares:LugHistóricoÉpoca  monu:Edad_Media ;
+        lugares:Se_refiere_a_lugar_actual
+                <http://tesauros.mecd.es/tesauros/geografico/1110371>, <http://www.wikidata.org/entity/Q192534> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217302>
+        rdf:type    lugares:Lugar_Histórico;
+        rdfs:label  "Ynsula del clane"@es;
+        lugares:LugHistóricoÉpoca  monu:Edad_Media ;
+        lugares:Se_refiere_a_lugar_actual
+                <http://tesauros.mecd.es/tesauros/geografico/1109572>, <http://www.wikidata.org/entity/Q105967> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217299>
+        rdf:type    lugares:Lugar_Histórico;
+        rdfs:label  "Lancenço"@es;
+        lugares:LugHistóricoÉpoca  monu:Edad_Media ;
+        lugares:Se_refiere_a_lugar_actual
+                <http://tesauros.mecd.es/tesauros/geografico/1115195>, <http://www.wikidata.org/entity/Q182432> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217298>
+        rdf:type    lugares:Lugar_Histórico;
+        rdfs:label  "Canaria"@es;
+        lugares:LugHistóricoÉpoca  monu:Edad_Media ;
+        lugares:Se_refiere_a_lugar_actual
+                <http://tesauros.mecd.es/tesauros/geografico/1109696>, <http://www.wikidata.org/entity/Q178925> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217301>
+        rdf:type    lugares:Lugar_Histórico;
+lugares:LugHistóricoÉpoca  monu:Edad_Media ;
+        rdfs:label  "Palmae"@es;
+        lugares:Se_refiere_a_lugar_actual
+                <http://tesauros.mecd.es/tesauros/geografico/1110542>, <http://www.wikidata.org/entity/Q201689> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217300>
+        rdf:type    lugares:Lugar_Histórico;
+        rdfs:label  "Ynsula del Inferno"@es;
+        lugares:LugHistóricoÉpoca  monu:Edad_Media ;
+        lugares:Se_refiere_a_lugar_actual
+                <http://tesauros.mecd.es/tesauros/geografico/1109263>, <http://www.wikidata.org/entity/Q40846> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217297>
+        rdf:type    lugares:Lugar_Histórico;
+        rdfs:label  "Islas Canaria"@es;
+        lugares:LugHistóricoÉpoca  monu:Edad_Media ;
+        lugares:Se_refiere_a_lugar_actual
+                <http://tesauros.mecd.es/tesauros/geografico/1130652>, <http://www.wikidata.org/entity/Q5813> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217295>
+        rdf:type    lugares:Lugar_Histórico;
+        rdfs:label  "Hesperides"@es;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Griega ;
+        lugares:Se_refiere_a_lugar_actual
+                <http://tesauros.mecd.es/tesauros/geografico/1130652>, <http://www.wikidata.org/entity/Q5813> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211512>
+        rdf:type    lugares:Lugar_Histórico;
+        rdfs:label  "Sinus Ilicitanus"@es;
+        lugares:LugHistóricoÉpoca  monu:Edad_Antigua ;
+        lugares:Se_refiere_a_lugar_actual
+                <http://tesauros.mecd.es/tesauros/geografico/1113243>, <http://www.wikidata.org/entity/Q927965> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212008>
+        rdf:type    lugares:Lugar_Histórico;
+        rdfs:label  "Plumbaria"@es;
+        lugares:LugHistóricoÉpoca  monu:Edad_Antigua ;
+        lugares:Se_refiere_a_lugar_actual
+                <http://tesauros.mecd.es/tesauros/geografico/1128501>, <http://www.wikidata.org/entity/Q2616360> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211541>
+        rdf:type    lugares:Lugar_Histórico;
+        rdfs:label  "Nerium promunturium"@es;
+        lugares:LugHistóricoÉpoca  monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:Se_refiere_a_lugar_actual
+                <http://tesauros.mecd.es/tesauros/geografico/1126486>, <http://www.wikidata.org/entity/Q1136198> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216431>
+        rdf:type    lugares:Lugar_Histórico;
+        rdfs:label  "Tagi ostium"@es;
+        lugares:Se_refiere_a_lugar_actual
+                <http://tesauros.mecd.es/tesauros/geografico/1203526> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211469>
+        rdf:type    lugares:Lugar_Histórico;
+        rdfs:label  "Ophiussa"@es;
+        lugares:LugHistóricoÉpoca  monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Griega ;
+        lugares:Se_refiere_a_lugar_actual
+                <http://tesauros.mecd.es/tesauros/geografico/1119975>, <http://www.wikidata.org/entity/Q31916364> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212618>
+        rdf:type    lugares:Lugar_Histórico;
+        rdfs:label  "Ebousos"@es;
+        lugares:LugHistóricoÉpoca  monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Griega ;
+        lugares:Se_refiere_a_lugar_actual
+                <http://tesauros.mecd.es/tesauros/geografico/1119976>, <http://www.wikidata.org/entity/Q52631> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211457>
+        rdf:type    lugares:Lugar_Histórico;
+        rdfs:label  "Pityoussas"@es;
+        lugares:LugHistóricoÉpoca  monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Griega ;
+        lugares:Se_refiere_a_lugar_actual
+                <http://tesauros.mecd.es/tesauros/geografico/1111133>, <http://www.wikidata.org/entity/Q5765> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211472>
+        rdf:type    lugares:Lugar_Histórico;
+        rdfs:label  "Meloussa"@es;
+        lugares:LugHistóricoÉpoca  monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Griega ;
+        lugares:Se_refiere_a_lugar_actual
+                <http://tesauros.mecd.es/tesauros/geografico/1111132>, <http://www.wikidata.org/entity/Q52636> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211471>
+        rdf:type    lugares:Lugar_Histórico;
+        rdfs:label  "Kromyoussa"@es;
+        lugares:LugHistóricoÉpoca  monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Griega ;
+        lugares:Se_refiere_a_lugar_actual
+                <http://tesauros.mecd.es/tesauros/geografico/1111268>, <http://www.wikidata.org/entity/Q8828> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211470>
+        rdf:type    lugares:Lugar_Histórico;
+        rdfs:label  "Gymnesias"@es;
+        lugares:LugHistóricoÉpoca  monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Griega ;
+        lugares:Se_refiere_a_lugar_actual
+                <http://tesauros.mecd.es/tesauros/geografico/1111133>, <http://www.wikidata.org/entity/Q5765> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216430>
+        rdf:type    lugares:Lugar_Histórico;
+        rdfs:label  "Sacrum promunturium"@es;
+        lugares:Se_refiere_a_lugar_actual
+                <http://tesauros.mecd.es/tesauros/geografico/1203519> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212006>
+        rdf:type    lugares:Lugar_Histórico;
+        rdfs:label  "Planesia"@es;
+        lugares:LugHistóricoÉpoca  monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Griega ;
+        lugares:Se_refiere_a_lugar_actual
+                <http://tesauros.mecd.es/tesauros/geografico/1111110>, <http://www.wikidata.org/entity/Q1548344> .

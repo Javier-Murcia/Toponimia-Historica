@@ -1,0 +1,1167 @@
+@prefix tes:   <http://tesauros.mecd.es/tesauros/vocab#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix lu:    <http://www.ontologydesignpatterns.org/ont/framenet/abox/lu/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix geosparql: <http://www.opengis.net/ont/geosparql#> .
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace> .
+@prefix monu:  <http://www.monumentos.es/> .
+@prefix lugares: <http://www.monumentos.es/lugares/> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211529>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Ilercavonia"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216698>
+        a           lugares:Lugar_Histórico ;
+          lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q47571>;
+          lugares:LugHistóricoÉpoca  monu:Edad_Media ;
+          lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        rdfs:label  "Lurqa"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211671>
+        a           lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Céltica ;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        rdfs:label  "Ontikes"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211650>
+        a           lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Celtibérica ;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        rdfs:label  "Tabaniu"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216485>
+        a           lugares:Lugar_Histórico ;
+        lugares:LugHistóricoÉpoca  monu:Edad_Media ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        rdfs:label  "Taifa de Mirtula"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211479>
+        a           lugares:Lugar_Histórico ;
+        lugares:LugHistóricoÉpoca   monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Fenicia, monu:Cultura_Romana ;
+        rdfs:label  "Vesci"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216293>
+        a           lugares:Lugar_Histórico ;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q47571>;
+        lugares:LugHistóricoÉpoca   monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura monu:Romana ;
+        rdfs:label  "Eliocroca"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211800>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Callaecia"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212826>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Bergidum"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211792>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Colonizaciones"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211750>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Conventus Caesaraugustanus"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216372>
+        a           lugares:Lugar_Histórico ;
+          lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q649612>;
+          lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        rdfs:label  "Cauca"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211537>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Ilergetia"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211708>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Aipora"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217081>
+        a           lugares:Lugar_Histórico ;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q10305>;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+                lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía ;
+        rdfs:label  "Cesaracosta"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211658>
+        a           lugares:Lugar_Histórico ;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        rdfs:label  "Louitiskos"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211808>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Conventus Hispalensis"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211616>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Kaio"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212813>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Ugia"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216409>
+        a           lugares:Lugar_Histórico ;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q97632093> ;
+        rdfs:label  "Isturgi"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212784>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Intercatia"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217160>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Catalunya Vella"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216380>
+        a           lugares:Lugar_Histórico ;
+      lugares:Se_refiere_a_lugar_actual   <http://www.wikidata.org/entity/Q1161395>;
+        rdfs:label  "Axati"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211737>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Lastigi"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212571>
+        a           lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Sueva ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía ;
+        rdfs:label  "Toriviana"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216701>
+        a           lugares:Lugar_Histórico ;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q11953> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_Media ;
+        lugares:LugHistóricoCultura  monu:Cultura_Islámica ;
+        rdfs:label  "Madinat al-Faray"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216885>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Arkabiqa"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211503>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Mastia"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211687>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Olcadia"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211495>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Oretania"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211666>
+        a           lugares:Lugar_Histórico ;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q5475466> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Berones ;
+        rdfs:label  "Baskunes"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216480>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "al-Andalus"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211645>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Okalakom"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211624>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Belaiskom"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211603>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Abariltur"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216417>
+        a           lugares:Lugar_Histórico ;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q1375851> ;
+        rdfs:label  "Epora"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212416>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Balearica"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212608>
+        a           lugares:Lugar_Histórico ;
+      lugares:Se_refiere_a_lugar_actual   <http://www.wikidata.org/entity/Q465078>;
+      lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+
+      lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía ;
+        rdfs:label  "Asturie"@es .
+
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211574>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Kili"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211745>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Ostur"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211724>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Dipo"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211532>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Lusitania"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211482>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Carpetania"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211653>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Uirouia"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216296>
+        a           lugares:Lugar_Histórico ;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q167224> ;
+        rdfs:label  "Paelontium"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211803>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Conventus Carthaginensis"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211611>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Eusti"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211795>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Ispania"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216404>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Vergilia"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212779>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Oscua"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211732>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Ipora"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216375>
+        a           lugares:Lugar_Histórico ;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q1613344> ;
+        rdfs:label  "Iulipa"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211540>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Iacetania"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211682>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Ikalesken"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216688>
+        a           lugares:Lugar_Histórico ;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q12303> ;
+        rdfs:label  "Saris Siduna"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211490>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Vaccea"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211661>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Titiakos"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211640>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Kaisesa"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211811>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Conventus Tarraconensis"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211619>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Masonsa"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216412>
+        a           lugares:Lugar_Histórico ;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q1451119> ;
+        rdfs:label  "Solia"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211740>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Oquri"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211569>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Lakine"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217142>
+        a           lugares:Lugar_Histórico ;
+        lugares:LugHistóricoÉpoca  monu:Edad_Media ;
+        rdfs:label  "Castella Vetula"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211719>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Celtitan"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211669>
+        a           lugares:Lugar_Histórico ;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Berones;
+        rdfs:label  "Arsaos"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216291>
+        a           lugares:Lugar_Histórico ;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q15681> ;
+        rdfs:label  "Aurgi"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211648>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Samala"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211598>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Gallaecia"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212611>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Vallesalsa"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211577>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Basti (2)"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211556>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Indiketia"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212561>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Palantucio"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212732>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Caristia"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211677>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Iltiraka"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211485>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Pelendonia"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217079>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Isbaniya"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211806>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Conventus Emeritensis"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216257>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Hispalis"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211614>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Arketurki"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211798>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Ulterior"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212619>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Hispania"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216407>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Olisipo"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211564>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Suessetania"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212761>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Masilva"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211714>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Brutobriga"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211664>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Aratikos"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211643>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Metuainum"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212819>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Calpurniana"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216415>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Ategua"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212606>
+        a           lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+                lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía ;
+        rdfs:label  "Adonis"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212414>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Tarraconensis"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212598>
+        a           lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+                lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía ;
+        rdfs:label  "Cestavi"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212706>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Portus Veseiasueca"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211672>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Tirsos"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211480>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Bastetania"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211651>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Tamaniu"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216294>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Ildum"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211630>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Arkailikos"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211801>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Conventus Asturum"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212827>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Caranico"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211730>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Ilse"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216373>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Mellaria"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212564>
+        a           lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda, monu:Cultura_Sueva ;
+                lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía ;
+        rdfs:label  "Pesicos"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211680>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Abra"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211488>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Beronia"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211659>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Oilaunikos"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211638>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Bormesko"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211809>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Conventus Pacensis"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211446>
+        a           lugares:Lugar_Histórico ;
+        lugares:LugHistóricoÉpoca  monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Griega ;
+        rdfs:label  "Akra Leuke"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211617>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Biluaon"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216410>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Segisa"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212785>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Pallantia"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211567>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Seteisken"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217140>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Asturias de Santillana"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211525>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Cessetania"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211504>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Arevaquia"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216694>
+        a           lugares:Lugar_Histórico ;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q24015194> ;
+        rdfs:label  "Santa Mariya al-Sarq"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211688>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Lobetania"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211496>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Tartessos"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211667>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Bentian-Benkota"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211646>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Orosis"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212000>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Clodiamus flumen"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211596>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Vasconia"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212609>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Decrinos"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212772>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Ucia"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211725>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Sisipo"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217098>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Forum Limicorum"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211483>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Celtiberia"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212830>
+        a           lugares:Lugar_Histórico ;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q818341> ;
+        rdfs:label  "Dactonium"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211654>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Ekualakos"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211633>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Usamus"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211462>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "b´b´l"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212659>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Regio Cantabrorum"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211804>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Conventus Cluniensis"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211612>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Ore"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211796>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Baetica"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216405>
+        a           lugares:Lugar_Histórico ;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q427330>;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Fenicia ;
+        rdfs:label  "Sel"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216376>
+        a           lugares:Lugar_Histórico ;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q1148574> ;
+        rdfs:label  "Munigua"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212738>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Iturissa"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212108>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Conventus Astigitanus"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217277>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Andaluzía"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211683>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Urkesken"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211491>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Contestania"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211662>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Uarakos"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211641>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Karalus"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216434>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Ammaia"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211783>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Osicerda"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216413>
+        a           lugares:Lugar_Histórico ;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q97634236> ;
+        rdfs:label  "Suel"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211570>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Otobesken"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216384>
+        a           lugares:Lugar_Histórico ;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q516549> ;
+        rdfs:label  "Canania"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212575>
+        a           lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda, monu:Cultura_Sueva  ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía;
+        rdfs:label  "Ventosa"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211720>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Cerit"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211549>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Turmogia"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211670>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Olkairun"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212512>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Traducta"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216292>
+        a           lugares:Lugar_Histórico ;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q695202> ;
+        rdfs:label  "Bergidum Flavium"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211478>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Turiregina"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211649>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Sekisamos"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211607>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Oskumken"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211941>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Ceca"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216563>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "al-Tagr al-Aqsa"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211728>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Ilipula Halos"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212733>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Ceretania"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211657>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Kueliokos"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211465>
+        a           lugares:Lugar_Histórico ;
+      lugares:Se_refiere_a_lugar_actual   <http://www.wikidata.org/entity/Q926144>;
+        rdfs:label  "Olontigi"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211636>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Sekobirikes"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211807>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Conventus Gaditanus"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211615>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Eso"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1168647>
+        a           lugares:Lugar_Histórico ;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q1769796> ;
+        rdfs:label  "Valeria"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216408>
+        a           lugares:Lugar_Histórico ;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q488555> ;
+        rdfs:label  "Viatia"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217159>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Catalunya Nova"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212762>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Munda"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217138>
+        a           lugares:Lugar_Histórico ;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q24008392> ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+                lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía ;
+        rdfs:label  "Victoriacum"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212570>
+        a           lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda, monu:Cultura_Sueva  ;
+                lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía ;
+        rdfs:label  "Susarres"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212549>
+        a           lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda, monu:Cultura_Sueva  ;
+                lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía ;
+        rdfs:label  "Fraucello"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212691>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Deobriga"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211494>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Edetania"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211665>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Lutiakos"@es .
+
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211623>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Titum"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211602>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Laiesken"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216963>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "al-Tagr al-Adna"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216416>
+        a           lugares:Lugar_Histórico ;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q370639> ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+                lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía ;
+        rdfs:label  "Arcavica"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212607>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Amiasios"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212791>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Porta Augusta"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212415>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Carthaginensis"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211552>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Sedetania"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212578>
+        a           lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Sueva ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía ;
+        rdfs:label  "Caliabria"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211723>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Cumbaria"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211531>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Layetania"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211510>
+        a           lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Vetones ;
+        rdfs:label  "Vettonia"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212849>
+
+        a           lugares:Lugar_Histórico ;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q738013> ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        rdfs:label  "Setabi"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217096>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Dorioy Potamoy Ekbolai"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212515>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Autrigonia"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211673>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Umanbaate"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211481>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Baeturia celticorum"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212069>
+        a           lugares:Lugar_Histórico ;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q329984> ;
+        owl:sameAs <http://www.wikidata.org/entity/Q20087591> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        rdfs:label  "Salaria"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211652>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Uarkas"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216295>
+        a           lugares:Lugar_Histórico ;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q695889> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Berones;
+        rdfs:label  "Ilurcis"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211460>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Calpe Mons"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211802>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Conventus Bracarum"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216566>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "al-Tagr al-Awsat"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216374>
+        a           lugares:Lugar_Histórico ;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q491929> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        rdfs:label  "Vergi"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212565>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Petra"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211710>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Baicipo"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212736>
+        a           lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Várdulos ;
+        rdfs:label  "Vardulia"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216524>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Kura de Rayya"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211681>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Leuni"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211489>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Lusonia"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211660>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Teitiakos"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211468>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Arsa"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211810>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Conventus Scallabitanus"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212473>
+        a           lugares:Lugar_Histórico ;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q257707> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        rdfs:label  "Portus Ilicitanus"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211618>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Bikanaos"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216411>
+        a           lugares:Lugar_Histórico ;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q1447741> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        rdfs:label  "Urci"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212239>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Baeturia turdulorum"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216382>
+        a           lugares:Lugar_Histórico ;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q97650916> ;
+        owl:sameAs  <http://www.wikidata.org/entity/Q97650916> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        rdfs:label  "Arva"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211568>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Iltukoite"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211739>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Onuba"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217141>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Castella"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211505>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Asturia"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211689>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Turboletia"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211497>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Turdetania"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211668>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Arsakos"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216290>
+        a           lugares:Lugar_Histórico ;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q99151> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        rdfs:label  "Auria"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211647>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Roturkon"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211605>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Lauro"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211597>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Bastulia"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216582>
+        a           lugares:Lugar_Histórico ;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q5831> ;
+        rdfs:label  "Malila"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212581>
+        a           lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía ;
+        rdfs:label  "Elvora"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212731>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Bargusia y Bergistania"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211697>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Lacimurga Constantia Iulia"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211676>
+        a           lugares:Lugar_Histórico ;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q281272> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_del_Hierro , monu:Edad_Antigua ;
+        rdfs:label  "Castulo"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211484>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Belia y Titia"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217249>
+        a           lugares:Lugar_Histórico ;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q559148> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_Media ;
+        rdfs:label  "Alcalá del Río Xorquera"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211634>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Ikesankom konbouto"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211805>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Conventus Cordubensis"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211797>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Citerior"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216406>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Collipo"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212760>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Corticata"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211734>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Irippo"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216377>
+        a           lugares:Lugar_Histórico ;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q1637576> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        rdfs:label  "Celti"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211713>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Bora"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212376>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Conventus Lucensis"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211500>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Turdulia"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211684>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Okanaka"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217257>
+        a           lugares:Lugar_Histórico ;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q11953> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_Media ;
+        rdfs:label  "Guadalfayara"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211663>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Arekorata"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211642>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Letaisama"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211450>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Sinus Tartesicus"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211621>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Karaues"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211600>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Iltirkesken"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216414>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Detumo"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211571>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Usekerte"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216385>
+        a           lugares:Lugar_Histórico ;
+        lugares:Se_refiere_a_lugar_actual <http://www.wikidata.org/entity/Q683023> ;
+        lugares:LugHistóricoÉpoca  monu:Edad_Antigua ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        rdfs:label  "Naeva"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211550>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Ausetania"@es .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211721>
+        a           lugares:Lugar_Histórico ;
+        rdfs:label  "Cilpes"@es .

@@ -1,0 +1,550 @@
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix geosparql: <http://www.opengis.net/ont/geosparql#> .
+@prefix tes:   <http://tesauros.mecd.es/tesauros/vocab#> .
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix monu:  <http://www.monumentos.es/> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix lugares: <http://www.monumentos.es/lugares/> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212861>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211766>
+        a                          lugares:Lugar_Histórico ;
+lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212541>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Sueva ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212846>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Bizantina ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212639>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212582>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212859>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212074>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoCultura  monu:Cultura_Bizantina ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212567>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoCultura  monu:Cultura_Sueva ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212539>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoCultura  monu:Cultura_Sueva ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211760>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216416>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216444>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212840>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212605>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212520>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoCultura  monu:Cultura_Romana ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212382>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212853>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212395>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoCultura  monu:Cultura_Bizantina ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212546>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoCultura  monu:Cultura_Sueva ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212518>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoCultura  monu:Cultura_Bizantina ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211532>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212559>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoCultura  monu:Cultura_Sueva ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212474>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211432>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212540>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoCultura  monu:Cultura_Sueva ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1168647>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212581>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212858>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212566>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoCultura  monu:Cultura_Sueva ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211580>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoCultura  monu:Cultura_Bizantina ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212538>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoCultura  monu:Cultura_Sueva ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212604>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212799>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212852>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212532>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212379>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212586>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212558>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoCultura  monu:Cultura_Sueva ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212737>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212599>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212580>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoCultura  monu:Cultura_Sueva ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212552>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212857>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212537>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212258>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212603>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212851>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212531>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212572>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoCultura  monu:Cultura_Sueva ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212544>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoCultura  monu:Cultura_Sueva ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212849>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212378>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212585>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212529>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212472>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Bizantina ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212843>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212551>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoCultura  monu:Cultura_Sueva ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212385>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Bizantina ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212856>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212536>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoCultura  monu:Cultura_Sueva ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212602>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212850>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212530>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211796>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212502>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211435>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212543>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoCultura  monu:Cultura_Sueva ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212848>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212556>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoCultura  monu:Cultura_Sueva ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212528>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212597>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212569>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoCultura  monu:Cultura_Sueva ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212415>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoCultura  monu:Cultura_Sueva ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212550>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoCultura  monu:Cultura_Sueva ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212384>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212855>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212563>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoCultura  monu:Cultura_Sueva ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212535>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212576>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212548>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoCultura  monu:Cultura_Sueva ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212601>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212589>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoCultura  monu:Cultura_Bizantina ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212614>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217138>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217081>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212834>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212542>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoCultura  monu:Cultura_Sueva ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212847>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212583>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoCultura  monu:Cultura_Sueva ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212555>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoCultura  monu:Cultura_Sueva ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212527>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212596>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212568>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoCultura  monu:Cultura_Sueva ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212414>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212521>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212854>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212534>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212506>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoCultura  monu:Cultura_Bizantina ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212588>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoCultura  monu:Cultura_Sueva ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212475>
+        a                          lugares:Lugar_Histórico ;
+        lugares:LugHistóricoCultura  monu:Cultura_Visigoda ;
+        lugares:LugHistóricoÉpoca  monu:Antigüedad_tardía .

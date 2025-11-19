@@ -1,0 +1,3396 @@
+@prefix tes:   <http://tesauros.mecd.es/tesauros/vocab#> .
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix monu:  <http://www.monumentos.es/> .
+@prefix lugares: <http://www.monumentos.es/lugares/> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216904>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1631202> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216484>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/8717> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212614>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q12812> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211620>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q835559>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212660>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q120172209> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217136>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1386351> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212835>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q8828> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216452>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1330796> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216627>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q490472> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217104>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q837062> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212803>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q10509> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212558>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q11125> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217150>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1908295>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216894>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q668384> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216816>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q949381> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212572>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1644565> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212747>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q241767> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216830>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q11959> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211753>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1645543> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217094>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q842698> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212793>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q567563> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212540>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q695202> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217269>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q115957> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216585>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q646725> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216507>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q54889> , <http://www.wikidata.org/entity/Q12225> , <http://www.wikidata.org/entity/Q54936> , <http://www.wikidata.org/entity/Q81802> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217237>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q820224> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216553>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q854424> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211476>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q203042> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217283>
+        lugares:Se_refiere_a_lugar_actual
+               <http://www.wikidata.org/entity/Q203042> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217205>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1640141> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211444>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q15682> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216521>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q13153> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217251>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q389171> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216497>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q8828> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212673>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1652139>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217149>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q951778> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212848>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q8378> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217195>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q983546> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216931>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q943437> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211601>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1492> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217117>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q24015189> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216686>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q637863>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212816>
+        lugares:Se_refiere_a_lugar_actual
+               <http://www.wikidata.org/entity/Q1615179> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216433>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1613373> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216608>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q49562>   .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217163>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q983564> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212008>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q2616360> , <http://www.wikidata.org/entity/Q987453> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216829>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q568278>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212539>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q768261> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212054>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q142778>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216622>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q375851>    .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212585>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q597> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211591>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q5915647> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211766>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q14323> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212553>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q45> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216598>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q564768> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216811>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q115499551> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212774>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q854403>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212521>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/8717> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211780>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q12812> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217296>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q5813> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212742>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q956558>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217218>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1373919> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216534>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q5818> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211457>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q5765> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212497>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1611693> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217264>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q579668>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212419>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q179948> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216580>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q496424>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212710>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q54936> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216502>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q8818> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217232>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q24004024> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211471>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q8828> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216976>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q3573110> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212433>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q13154> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217200>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1640136> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211692>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q24002258> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216699>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q10509> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212829>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q500494> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216446>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q986572> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217176>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1639660> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216492>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q637863>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212622>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q899884> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217144>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q776113> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212067>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1632828>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212843>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q8851> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216460>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1915133> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216888>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q12246> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216681>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1632610>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217112>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q11967> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212811>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q738013> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211779>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1650389> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216603>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1613282> , <http://www.wikidata.org/entity/Q97647667> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211526>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q98392> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212566>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q20544186> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216824>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q213251> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211747>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q842652> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212787>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q430454>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212534>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1657998>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216870>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1628828> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216579>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q15090> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212709>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1653139>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217301>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q201689> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212580>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q373720> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217056>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q52636> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211715>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1447700> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212502>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q213251> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216547>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q301437> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216593>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1623994> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212723>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q15551> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216515>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q642200> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211438>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q15682> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217245>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q28120317> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216561>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q12812> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212699>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q13153> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211452>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q193780> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216957>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1917433> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211627>
+        lugares:Se_refiere_a_lugar_actual
+               <http://www.wikidata.org/entity/Q1629957> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216459>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1769777>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216925>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q114290402> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216971>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q24015190> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217157>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q24013046> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212856>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q5690905> , <http://www.wikidata.org/entity/Q455933> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212603>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q15088> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212048>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q473914> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212824>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1628353>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216441>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q6050145> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216869>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q181359> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216616>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q559140> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212579>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q45> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211585>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q835092> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216837>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q913215> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211507>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q49581> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212547>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q45> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216883>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q959012>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212768>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1631804>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216528>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q927931> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212782>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1650460>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217258>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1654390>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216574>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q597> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212704>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q23992060> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212750>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q181359>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217226>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q52584>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216542>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q927931> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217272>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1750918>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216510>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q54932> , <http://www.wikidata.org/entity/Q81972> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211433>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q52631> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216938>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1231003> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211608>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q984645> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212648>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q830571> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217240>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q842228> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212694>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1765206>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216486>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q12246> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211622>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q639412> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212662>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q120172176> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212837>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q23982870> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217106>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1921204> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212385>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q842652> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217152>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q385017> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212851>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q750968>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216896>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q142778> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211566>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q55182> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216818>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1161395>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212528>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q487786> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217120>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q633345>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212043>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q15468> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211787>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q639412> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216611>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q638181>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212574>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q45> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211709>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q244521> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212749>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q820476> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211580>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q490472> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216832>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q179948> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211755>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q47483> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212795>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q47571> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212542>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q3331316> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216587>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q854373>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216509>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q10305> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212510>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q738013> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216555>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q222702> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211944>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q753825> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217285>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q586018>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211699>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1613587> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217207>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q766898> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216523>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q484552> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216499>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q12812> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217221>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1645833> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216965>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1769796> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211635>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1827689> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212675>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q137129>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216933>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q575893> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217197>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q978587> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212643>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q501090> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217119>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1651638>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212818>
+        lugares:Se_refiere_a_lugar_actual
+               <http://www.wikidata.org/entity/Q1615179> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211579>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q574343> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212056>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q686184>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216877>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q473914> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216624>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1645054>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212587>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q45> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211593>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1641454> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217101>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q45412> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211768>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q846153>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212380>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q63092> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216845>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q45412> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212555>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q36433> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212070>
+        lugares:Se_refiere_a_lugar_actual
+              <http://www.wikidata.org/entity/Q1642043> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216891>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q595005> , <http://www.wikidata.org/entity/Q949381> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211561>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1650389> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216813>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q273413> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211736>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1628400> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216568>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q15682> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211782>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q115498987> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217298>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q178925> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211704>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1153945>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212744>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1647926> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216536>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q8810> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217091>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1606028> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212790>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q969988> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217266>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1900655>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216504>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q8851> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217234>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q837062> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211473>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q642200> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216550>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q854444> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216978>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q931379>   .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217280>
+        lugares:Se_refiere_a_lugar_actual
+              <http://www.wikidata.org/entity/Q12303> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217178>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q835559>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216494>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q695488> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212624>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q945653> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216960>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q837051> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212379>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q828723>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217146>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1643731>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216683>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q926144>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217114>
+        lugares:Se_refiere_a_lugar_actual
+               <http://www.wikidata.org/entity/Q5123>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216430>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q76516549> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216605>
+        lugares:Se_refiere_a_lugar_actual
+              <http://www.wikidata.org/entity/Q293130> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212568>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q71113> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216826>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q970693> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211749>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q370639>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212789>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q2665269> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212536>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q45> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212051>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q15678> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217303>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1036287> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212582>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q45412> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211717>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1448444>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212757>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q12303> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216549>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q504598> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216840>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q373720> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211763>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q586018>   .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217279>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q926144> ,  <http://www.wikidata.org/entity/Q97648067> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212550>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q24012302> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216595>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q367038> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212725>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q815339>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216517>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q609094>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211731>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q611199>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217247>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q2807> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211486>
+        lugares:Se_refiere_a_lugar_actual
+               <http://www.wikidata.org/entity/Q544635> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217215>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1116829> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216531>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q82142> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211454>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q193780> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216959>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q904212> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211629>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1639301> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217261>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q6107913> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211675>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q281272> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216927>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1983986> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216973>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q967136> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216429>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q173699> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212683>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q55276> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211818>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q11125> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212858>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q10282> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212605>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q24013404> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216696>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q487786> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216443>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q821860> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216618>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q329984> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217173>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1653421> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216839>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q213251> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211509>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q15090> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212840>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q273413>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211555>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q11967> .
+
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211776>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q10305> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216600>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q975728>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211523>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1648614>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212563>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q503856> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216821>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q97645743> .
+
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212531>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q47571> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216576>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q24013404> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211712>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q244521> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212752>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q47483> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216544>
+        lugares:Se_refiere_a_lugar_actual
+                  <http://www.wikidata.org/entity/Q1447741> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217274>
+        lugares:Se_refiere_a_lugar_actual
+               <http://www.wikidata.org/entity/Q487786> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216590>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q920126> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216512>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q484628> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211435>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q8851> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212475>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q568278> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217242>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q24001858> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211656>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q642046> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216488>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q12225> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212618>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q52631> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217210>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1768703> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212839>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q385923> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216922>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1648614>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217108>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q502975> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211813>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q83247> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217154>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1246441> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212853>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q95027> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212600>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1769947> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216691>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1631804>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212045>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q24009568> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212821>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1642171>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216866>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q324489> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216613>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q555134> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211536>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1642258>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212576>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q15688> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211582>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q46940> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211757>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q753825> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212544>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q377244> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216589>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q572041> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216880>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q738013> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212765>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q958972> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216557>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q492735>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211771>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q81978> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217209>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q583280>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216525>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q213251> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211448>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q8851> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217255>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1657998> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212701>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1769947> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216967>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1637315> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211637>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1764602>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212677>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q15684> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216935>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1757489>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211430>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q49562>   .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217199>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1751975>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212645>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1443790>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216981>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q899884> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216483>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q8810> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212613>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q984583> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212834>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q7038> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216451>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q2743536> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216879>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1614497> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216626>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q281272> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212589>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q572041> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211595>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q23984648> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212382>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q63092> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216847>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1153945>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212557>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q15699> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212072>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1614490>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216893>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1632442>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211563>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q817204>.
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211738>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q213251> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216815>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q929481> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212778>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q832949> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211706>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1406716> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212746>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1645052> ,  <http://www.wikidata.org/entity/Q1658590>   .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216538>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q8818> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211752>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1643644> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217093>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1596031> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212792>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q986557> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217268>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1628531> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216584>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q12225> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216506>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q484552> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217236>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q10282> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216552>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q854424> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211475>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1448460> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217282>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q642200> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212437>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1492> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217204>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q967136>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216520>
+        lugares:Se_refiere_a_lugar_actual
+               <http://www.wikidata.org/entity/Q828723>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212483>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1092146>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212658>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q55269> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217250>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q13930> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216496>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q15679> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211632>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q835092> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212672>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1617639> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217148>
+        lugares:Se_refiere_a_lugar_actual
+               <http://www.wikidata.org/entity/Q1609760> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212847>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q485129> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216930>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q46940>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217116>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q24015190> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216685>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q63092> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212815>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q44901> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216432>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q373720> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212395>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q47475> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216607>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1157964> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217162>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q985602> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212861>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q13939> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211576>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1229367> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212007>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q646725> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216828>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q501077> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212538>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q99151> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212053>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1643791> ,   <http://www.wikidata.org/entity/Q1658547> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216621>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q695425>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212584>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q45> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212506>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q162615> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211590>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q24012844> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211765>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1445334>   .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211512>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q927965> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212552>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q500494> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216597>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q193780> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216519>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/8717> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216810>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q5123>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211733>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q244521> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212520>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q5818> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216565>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1607695> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212275>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q213251> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217295>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q5813> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217042>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q12246> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211701>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1100437> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216533>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q10400> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217263>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1641976>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216501>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q10305> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216929>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1657998>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212639>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q13855> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217231>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q986733>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211470>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q5765> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216975>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q766898> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212432>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q642200> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211691>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q611199>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212828>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q8757> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216445>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1766853> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216911>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q47475> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217175>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1628407>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216491>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q63092> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211589>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q9092659> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217143>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q14314> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216887>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q931780> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211557>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1637315> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212597>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q642046> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217111>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q904212> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216680>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1447425> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212810>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q489205> .
+
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211778>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q986089>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216602>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1630355> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216823>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1615043> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211746>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q230368>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212786>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q2090529> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212533>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q55269> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216578>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q11967> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212708>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1453218> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217300>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q40846>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212754>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q572041> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216546>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q244324> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211469>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q31916364> , <http://www.wikidata.org/entity/Q52626> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211760>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q5836> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217276>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q12225> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216592>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q935266> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216514>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q273413> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211437>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q15682> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217244>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q23991375> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216560>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q916664> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212698>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q13153> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217212>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q537017> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216458>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q15696> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216924>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q14336> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216679>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1445232>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211815>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q14323> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217156>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q14325> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212855>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q15678> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212602>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q47483> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216693>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1750939> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212047>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q668384> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216868>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q389205> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216615>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q951930>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217170>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q54888> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211584>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q485129> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211759>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1631896> .
+
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212799>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q8775433> , <http://www.wikidata.org/entity/Q496424>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212546>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q12386810> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216882>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q15098> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211727>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q828723>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212767>
+        lugares:Se_refiere_a_lugar_actual
+                  <http://www.wikidata.org/entity/Q1611693> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212514>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q4391777> , <http://www.wikidata.org/entity/Q3357261> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216559>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q913483> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211773>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q244324> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211520>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1049602>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212560>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q45> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216527>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q959012>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216573>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1630260>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212703>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q200201> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217225>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1983287> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211464>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q261085>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216541>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q15679> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216969>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1639202> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211639>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q370639> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217271>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1767516> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211685>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q940842>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216937>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q954556> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211432>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q9094143> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212472>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q29> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212647>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1650635>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212693>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1642806>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212661>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q24014611> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212836>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q52636> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216453>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1753006> , <http://www.wikidata.org/entity/Q1641785> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217105>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q13049257> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212384>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q488555>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212074>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q695425> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211519>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1827689> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212559>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q10998433> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217151>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q24014611> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212850>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q15684> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216895>
+        lugares:Se_refiere_a_lugar_actual
+               <http://www.wikidata.org/entity/Q996175> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211565>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q817204>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216817>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1161395>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212527>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1601705> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216610>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q842679>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211533>
+        lugares:Se_refiere_a_lugar_actual
+                  <http://www.wikidata.org/entity/Q582778> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212573>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q45> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212748>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q965028> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217340>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q673625> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216831>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1014709> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211754>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q162615> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217095>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q13064> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212794>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q255845> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211501>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q927931> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212541>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q83247> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216586>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1410> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216508>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q54942> , <http://www.wikidata.org/entity/Q2263209> , <http://www.wikidata.org/entity/Q54936> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211722>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q5818> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217238>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q244747>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211477>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q916664> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216554>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q846153> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217284>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q203042> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212730>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q375851>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211698>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1639065> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217206>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1644852> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211445>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q29> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217252>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1633451> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216918>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1642258>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216498>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q646725> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217220>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1646761> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216964>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q639412> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216932>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q2807> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217196>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1639202> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212642>
+        lugares:Se_refiere_a_lugar_actual
+               <http://www.wikidata.org/entity/Q1391501> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216687>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q210887>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217118>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q695488> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216609>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q564773>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217164>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q603155> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212610>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1330796> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212055>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q15678> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216623>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1354411> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212586>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q15695> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217100>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q45412> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211592>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q642046> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211767>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q213251> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212554>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q45> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216599>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q501674>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216890>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1447333> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211560>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q49581> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216812>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q966470> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211735>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q913483> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216567>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q173699> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211781>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1229367> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217297>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q5813> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212743>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q244747>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217219>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1635350> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211458>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q284894>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216535>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q5818> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217090>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q12386810> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217265>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1768772> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216581>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q5823> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211679>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q375851>  .
+
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217233>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q646620> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211472>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q52636> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216977>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1640382>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217201>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1639432>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211693>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q695456> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211440>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q257707>   .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212655>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q13934>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216447>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1114855>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217177>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q815339>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216493>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q5818> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212623>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q899884> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212378>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q927931> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212068>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q488555>   .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217145>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1923970> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216461>
+        lugares:Se_refiere_a_lugar_actual
+               <http://www.wikidata.org/entity/Q1647106> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216889>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q465085>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212599>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q984583> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216682>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q609094> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217113>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q49581> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212812>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q173699> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216604>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q5725626> , <http://www.wikidata.org/entity/Q491929>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211527>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q15088> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212567>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q31282609> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212004>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q8826> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211573>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1993398>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216825>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q533277> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211748>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q575893> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217089>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q14314> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212788>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q673625> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212535>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q773408> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217302>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q105967> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216871>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q524820>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211541>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q732090> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211716>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q854424> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212756>
+        lugares:Se_refiere_a_lugar_actual
+               <http://www.wikidata.org/entity/Q12303> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216548>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q15681> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211762>
+        lugares:Se_refiere_a_lugar_actual
+               <http://www.wikidata.org/entity/Q1606495>   .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212258>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q244521> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217278>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q2453722> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216594>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q332989> .
+
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211439>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q646725> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212770>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q675298> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217246>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1649616>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216562>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q502975> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216530>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q81972> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211453>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q193780> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216958>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1645723> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211628>
+        lugares:Se_refiere_a_lugar_actual
+                  <http://www.wikidata.org/entity/Q544635> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217260>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q5702229> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216926>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1641021>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216972>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q64010> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216428>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q273877> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217158>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q115499551>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212857>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q959000> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212604>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q639412> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211610>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q13855> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212650>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q11959> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212049>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q15682> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212825>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1448886> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216442>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1643731>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216617>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q528530>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217172>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q24015188>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211586>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1613822> , <http://www.wikidata.org/entity/Q6073959> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216838>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1615179> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211508>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q13904> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212548>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q379372> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216884>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1827689> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211554>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q11967> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211729>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1645553>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212769>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q970693> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211522>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q837348>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212562>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q45> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212737>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1648110> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216529>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q5818> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216820>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1446577>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212783>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1650608>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217259>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1654773> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212530>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q281272> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216575>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q273877> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211498>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q63092> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212705>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q12233> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211711>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q81803> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217227>
+        lugares:Se_refiere_a_lugar_actual
+               <http://www.wikidata.org/entity/Q1645723> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216543>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q854403> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211466>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q828568>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217273>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q15093> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216939>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q842652> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216511>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q949381> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211434>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q15682> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212474>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q8810> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211609>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q15088> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212649>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q623685>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217241>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q24003073> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211655>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q986089>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212695>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1656771> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216487>
+        lugares:Se_refiere_a_lugar_actual
+               <http://www.wikidata.org/entity/Q828723>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212617>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q31916364> , <http://www.wikidata.org/entity/Q52626> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216700>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q978587> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212663>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q225515> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212838>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q8826> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216921>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1631897>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211599>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q13589> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217107>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q189749> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212386>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q5836> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211812>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q465078> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217153>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q687315>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212852>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q23994676> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216897>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1615390>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216819>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q12246> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212529>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1757489>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212044>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q12991> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216690>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q637863>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216612>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1157972> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217342>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q8826> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211756>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q753825> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217097>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q20551157> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212543>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q12385508> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216588>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q492748>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212511>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q213251> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216556>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q484552> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211770>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q568278> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217286>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q827393>   .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217208>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q639412> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211447>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q11822> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217254>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q630933>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216570>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q13159>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212700>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q846153> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217222>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q932479>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216934>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q338174> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217198>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q817204> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211604>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q108283288> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212644>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q173699> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216689>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q827393> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216980>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q49550> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217166>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q367969> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216482>
+        lugares:Se_refiere_a_lugar_actual
+               <http://www.wikidata.org/entity/Q367038> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212057>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q324489> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212833>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q572041> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216450>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q604318> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216878>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q47770520> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211548>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q76516549> , <http://www.wikidata.org/entity/Q26824> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216625>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1641632>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212588>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q117676> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211594>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q835559>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212801>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q8810> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211769>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/8717> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212556>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q15699> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216892>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q622819> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211562>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q10305> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216814>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q586018> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212777>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q210887>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217299>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q182432> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212745>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q10282> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216537>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q10305> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211751>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1645918>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217092>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1645000> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217267>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1637366> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216583>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q8851> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216505>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q13153> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217235>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q372556> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211474>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q222702> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216551>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q986552>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216979>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q509039> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217281>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q261085>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212436>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q222702> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211695>
+        lugares:Se_refiere_a_lugar_actual
+               <http://www.wikidata.org/entity/Q733580> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217203>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1650635>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216449>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1382293> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217179>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q496424>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216495>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q10400> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216961>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q750968> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211631>
+        lugares:Se_refiere_a_lugar_actual
+               <http://www.wikidata.org/entity/Q1613822> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217147>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q255845>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212846>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q646725> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217193>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q10305> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217115>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q732971>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216684>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q642200> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212814>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q987679> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216431>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q597> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216859>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q597> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212569>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1646385> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216606>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1110389>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211820>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q273877> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217161>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1917585> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211575>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q738013> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212006>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1548344> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216827>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q828723>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212537>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q465078> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212052>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q15678> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217304>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q192534> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216873>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q2449922> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216620>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1645543> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212583>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q117676> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211718>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1445412>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212758>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q966470> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216841>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q45412> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211511>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q436147> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212551>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q592681> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216596>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q322064> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216518>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q63092> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217248>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q24012786> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216564>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q484628> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211487>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1629957> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212740>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q95614068> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217216>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q115511508> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216532>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q15681> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211455>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q162615> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216500>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q5836> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216928>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q986733>   .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217230>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q931780> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211644>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1641454>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212431>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q493933> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212859>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q673412> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216942>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q385070>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212652>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q904212> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216697>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q8826> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216444>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q385017> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216619>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q488555>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217174>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q14336> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216490>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q609094>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212620>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q49550> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216886>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q984821> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212596>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1492> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212518>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q642200> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217110>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q984642> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211777>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q642046> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216601>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q904793>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211998>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q5818> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216822>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1611693> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212532>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1645543> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216577>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q244747>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212707>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1607619> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212753>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q47483> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217229>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1993055> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216545>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q611199>  ,  <http://www.wikidata.org/entity/Q550974> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217275>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q10509> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216591>
+        lugares:Se_refiere_a_lugar_actual
+               <http://www.wikidata.org/entity/Q492741> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212721>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q13745> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211436>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q15682> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216513>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q15679> , <http://www.wikidata.org/entity/Q14323> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212697>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q820469> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216489>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q749180> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217211>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1645962> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216955>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q574364> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211625>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q794238>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216457>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q484628> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216923>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q572760> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217109>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q8246625> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217155>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q821860> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212854>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q142778> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212601>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q11822> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216899>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q14323> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216692>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q203042> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212046>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q17181934> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212822>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q8818> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216614>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q427330>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212577>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q15688> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216369>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1639432>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211583>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q919046>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211758>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q213251> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217099>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q176504> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212798>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q794238>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212545>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q45> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216881>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q47483> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211551>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q13855> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211726>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q1386351> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212766>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q12246> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216558>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q944119>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212734>
+        lugares:Se_refiere_a_lugar_actual
+               <http://www.wikidata.org/entity/Q1770153>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211449>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/8717> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216526>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q5836> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212780>
+        lugares:Se_refiere_a_lugar_actual
+                  <http://www.wikidata.org/entity/Q1916434> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217256>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q52615> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216572>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q13153> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212702>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q5702198> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217224>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1765443> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216540>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/8717> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211463>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q95015> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216968>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q815339>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217270>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1648614>  .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211431>
+        lugares:Se_refiere_a_lugar_actual
+                 <http://www.wikidata.org/entity/Q322064> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216936>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q1157971> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211606>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q15468> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212692>
+        lugares:Se_refiere_a_lugar_actual
+                <http://www.wikidata.org/entity/Q501090> .

@@ -1,0 +1,566 @@
+@prefix webprotege: <http://webprotege.stanford.edu/> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix swrlb: <http://www.w3.org/2003/11/swrlb#> .
+@prefix swrl:  <http://www.w3.org/2003/11/swrl#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix swrla: <http://swrl.stanford.edu/ontologies/3.3/swrla.owl#> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix geosparql: <http://www.opengis.net/ont/geosparql#> .
+@prefix terms: <http://purl.org/dc/terms/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix www:   <http://www.monumentos.es/#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace> .
+@prefix monu:  <http://www.monumentos.es/> .
+@prefix lugares: <http://www.monumentos.es/lugares/> .
+@prefix dc:    <http://purl.org/dc/elements/1.1/> .
+
+<http://www.wikidata.org/entity/Q121705160>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216293> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216293>
+        owl:sameAs  <http://www.wikidata.org/entity/Q121705160> .
+
+        <http://www.wikidata.org/entity/Q5785332>
+                owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211519> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212821>
+                owl:sameAs  <http://www.wikidata.org/entity/Q29574171> .
+
+        <http://www.wikidata.org/entity/Q6153902>
+                owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211622> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211620>
+                owl:sameAs  <http://www.wikidata.org/entity/Q5735862> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212647>
+                owl:sameAs  <http://www.wikidata.org/entity/Q5703228> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216295>
+                owl:sameAs  <http://www.wikidata.org/entity/Q5914109> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211520>
+                owl:sameAs  <http://www.wikidata.org/entity/Q623407> .
+
+        <http://www.wikidata.org/entity/Q623407>
+                owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211520> .
+
+        <http://www.wikidata.org/entity/Q29652015>
+                owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212785> .
+
+        <http://www.wikidata.org/entity/Q6158255>
+                owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211584> .
+
+        <http://www.wikidata.org/entity/Q5703228>
+                owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212647> .
+
+        <http://www.wikidata.org/entity/Q5735862>
+                owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211620> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211487>
+                owl:sameAs  <http://www.wikidata.org/entity/Q2995989> .
+
+        <http://www.wikidata.org/entity/Q2724682>
+                owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211586> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211586>
+                owl:sameAs  <http://www.wikidata.org/entity/Q2724682> .
+
+        <http://www.wikidata.org/entity/Q29574171>
+                owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212821> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211622>
+                owl:sameAs  <http://www.wikidata.org/entity/Q6153902> .
+
+        <http://www.wikidata.org/entity/Q5914109>
+                owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216295> .
+
+        <http://www.wikidata.org/entity/Q2995989>
+                owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211487> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211519>
+                owl:sameAs  <http://www.wikidata.org/entity/Q5785332> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212785>
+                owl:sameAs  <http://www.wikidata.org/entity/Q29652015> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211584>
+                owl:sameAs  <http://www.wikidata.org/entity/Q6158255> .
+                <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212743>
+          owl:sameAs  <http://www.wikidata.org/entity/Q6033063> .
+
+  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212737>
+          owl:sameAs  <http://www.wikidata.org/entity/Q3615328> .
+
+  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217259>
+          owl:sameAs  <http://www.wikidata.org/entity/Q6073950> .
+
+  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212575>
+          owl:sameAs  <http://www.wikidata.org/entity/Q110658374> .
+
+  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217272>
+          owl:sameAs  <http://www.wikidata.org/entity/Q28664157> .
+
+  <http://www.wikidata.org/entity/Q3615328>
+          owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212737> .
+
+  <http://www.wikidata.org/entity/Q28664157>
+          owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217272> .
+
+  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212514>
+          owl:sameAs  <http://www.wikidata.org/entity/Q4391777> .
+
+  <http://www.wikidata.org/entity/Q6033063>
+          owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212743> .
+
+  <http://www.wikidata.org/entity/Q6073950>
+          owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217259> .
+
+  <http://www.wikidata.org/entity/Q61520443>
+          owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217269> .
+
+  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217269>
+          owl:sameAs  <http://www.wikidata.org/entity/Q61520443> .
+
+  <http://www.wikidata.org/entity/Q110658374>
+          owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212575> .
+
+  <http://www.wikidata.org/entity/Q4391777>
+          owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212514> .
+          <http://www.wikidata.org/entity/Q5785332>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211519> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211440>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8196258> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212840>
+        owl:sameAs  <http://www.wikidata.org/entity/Q11907044> .
+
+<http://www.wikidata.org/entity/Q6158926>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1168647> .
+
+<http://www.wikidata.org/entity/Q8239659>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212043> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1168647>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6158926> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211778>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16516765> .
+
+<http://www.wikidata.org/entity/Q9077914>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211759> .
+
+<http://www.wikidata.org/entity/Q4894734>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211589> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212473>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6083282> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212737>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3615328> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212709>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6073313> .
+
+<http://www.wikidata.org/entity/Q16516755>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212744> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212744>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16516755> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211771>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2838393> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212672>
+        owl:sameAs  <http://www.wikidata.org/entity/Q13077238> .
+
+<http://www.wikidata.org/entity/Q13077238>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212672> .
+
+<http://www.wikidata.org/entity/Q511481>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211812> .
+
+<http://www.wikidata.org/entity/Q8354994>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212614> .
+
+<http://www.wikidata.org/entity/Q6033063>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212743> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212043>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8239659> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212743>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6033063> .
+
+<http://www.wikidata.org/entity/Q19368095>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212047> .
+
+<http://www.wikidata.org/entity/Q8196258>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211440> .
+
+<http://www.wikidata.org/entity/Q11907044>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212840> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211589>
+        owl:sameAs  <http://www.wikidata.org/entity/Q4894734> .
+
+<http://www.wikidata.org/entity/Q3615328>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212737> .
+
+<http://www.wikidata.org/entity/Q6073313>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212709> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212614>
+        owl:sameAs  <http://www.wikidata.org/entity/Q8354994> .
+
+<http://www.wikidata.org/entity/Q2838393>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211771> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211519>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5785332> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212834>
+        owl:sameAs  <http://www.wikidata.org/entity/Q4897589> .
+
+<http://www.wikidata.org/entity/Q5485281>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216411> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212047>
+        owl:sameAs  <http://www.wikidata.org/entity/Q19368095> .
+
+<http://www.wikidata.org/entity/Q16516765>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211778> .
+
+<http://www.wikidata.org/entity/Q4897589>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212834> .
+
+<http://www.wikidata.org/entity/Q6083282>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212473> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211759>
+        owl:sameAs  <http://www.wikidata.org/entity/Q9077914> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211812>
+        owl:sameAs  <http://www.wikidata.org/entity/Q511481> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216411>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5485281> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212811>
+                owl:sameAs  <http://www.wikidata.org/entity/Q42907493> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211818>
+                owl:sameAs  <http://www.wikidata.org/entity/Q21095150> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211507>
+                owl:sameAs  <http://www.wikidata.org/entity/Q11926303> .
+
+        <http://www.wikidata.org/entity/Q42907493>
+                owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212811> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216450>
+                owl:sameAs  <http://www.wikidata.org/entity/Q16518976> .
+
+        <http://www.wikidata.org/entity/Q16518976>
+                owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216450> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212738>
+                owl:sameAs  <http://www.wikidata.org/entity/Q6153974> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212828>
+                owl:sameAs  <http://www.wikidata.org/entity/Q105703440> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211749>
+                owl:sameAs  <http://www.wikidata.org/entity/Q16013996> .
+
+        <http://www.wikidata.org/entity/Q105703440>
+                owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212828> .
+
+        <http://www.wikidata.org/entity/Q16013996>
+                owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211749> .
+
+        <http://www.wikidata.org/entity/Q21095150>
+                owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211818> .
+
+        <http://www.wikidata.org/entity/Q6153974>
+                owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212738> .
+
+        <http://www.wikidata.org/entity/Q11926303>
+                owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211507> .
+                <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211782>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5808431> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211763>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3552479> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211815>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1583842> .
+
+<http://www.wikidata.org/entity/Q5808431>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211782> .
+
+<http://www.wikidata.org/entity/Q2932882>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211776> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211776>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2932882> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212437>
+        owl:sameAs  <http://www.wikidata.org/entity/Q17587742> .
+
+<http://www.wikidata.org/entity/Q3552479>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211763> .
+
+<http://www.wikidata.org/entity/Q5760255>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211779> .
+
+<http://www.wikidata.org/entity/Q2724682>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211586> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211586>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2724682> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211533>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5974846> .
+
+<http://www.wikidata.org/entity/Q17587742>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212437> .
+
+<http://www.wikidata.org/entity/Q3025521>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212643> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212643>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3025521> .
+
+<http://www.wikidata.org/entity/Q5974846>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211533> .
+
+<http://www.wikidata.org/entity/Q1583842>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211815> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211779>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5760255> .
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212055>
+                owl:sameAs  <http://www.wikidata.org/entity/Q6044750> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212069>
+                owl:sameAs  <http://www.wikidata.org/entity/Q20087591> .
+
+        <http://www.wikidata.org/entity/Q6044750>
+                owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212055> .
+
+        <http://www.wikidata.org/entity/Q20087591>
+                owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212069> .
+                <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211776>
+        owl:sameAs  <http://www.wikidata.org/entity/Q2932882> .
+
+<http://www.wikidata.org/entity/Q11907044>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212840> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212437>
+        owl:sameAs  <http://www.wikidata.org/entity/Q17587742> .
+
+<http://www.wikidata.org/entity/Q17587742>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212437> .
+
+<http://www.wikidata.org/entity/Q2932882>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211776> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212840>
+        owl:sameAs  <http://www.wikidata.org/entity/Q11907044> .
+
+<http://www.wikidata.org/entity/Q1583842>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211815> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211815>
+        owl:sameAs  <http://www.wikidata.org/entity/Q1583842> .
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216537>
+        owl:sameAs  <http://www.wikidata.org/entity/Q11947752> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211620>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5735862> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212793>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5478271> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1212650>
+        owl:sameAs  <http://www.wikidata.org/entity/Q3555926> .
+
+<http://www.wikidata.org/entity/Q29574695>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211760> .
+
+<http://www.wikidata.org/entity/Q6131553>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216412> .
+
+<http://www.wikidata.org/entity/Q109789473>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211631> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216412>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6131553> .
+
+<http://www.wikidata.org/entity/Q339005>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211773> .
+
+<http://www.wikidata.org/entity/Q6170974>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217081> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216411>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5485281> .
+
+<http://www.wikidata.org/entity/Q5478271>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212793> .
+
+<http://www.wikidata.org/entity/Q16519082>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216452> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211605>
+        owl:sameAs  <http://www.wikidata.org/entity/Q11045304> .
+
+<http://www.wikidata.org/entity/Q11947752>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216537> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211760>
+        owl:sameAs  <http://www.wikidata.org/entity/Q29574695> .
+
+<http://www.wikidata.org/entity/Q11045304>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211605> .
+
+<http://www.wikidata.org/entity/Q5735862>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211620> .
+
+<http://www.wikidata.org/entity/Q5485281>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216411> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211631>
+        owl:sameAs  <http://www.wikidata.org/entity/Q109789473> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1216452>
+        owl:sameAs  <http://www.wikidata.org/entity/Q16519082> .
+
+<http://www.wikidata.org/entity/Q5998362>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211726> .
+
+<http://www.wikidata.org/entity/Q3555926>
+        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212650> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1217081>
+        owl:sameAs  <http://www.wikidata.org/entity/Q6170974> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211773>
+        owl:sameAs  <http://www.wikidata.org/entity/Q339005> .
+
+<http://tesauros.mecd.es/tesauros/toponimiahistorica/1211726>
+        owl:sameAs  <http://www.wikidata.org/entity/Q5998362> .
+        <http://www.wikidata.org/entity/Q3135141>
+                owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212614> .
+
+        <http://www.wikidata.org/entity/Q5890310>
+                owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212049> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212811>
+                owl:sameAs  <http://www.wikidata.org/entity/Q42907493> .
+
+        <http://www.wikidata.org/entity/Q16144734>
+                owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211446> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211446>
+                owl:sameAs  <http://www.wikidata.org/entity/Q16144734> .
+
+        <http://www.wikidata.org/entity/Q3469665>
+                owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211562> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211554>
+                owl:sameAs  <http://www.wikidata.org/entity/Q100707984> .
+
+        <http://www.wikidata.org/entity/Q105703440>
+                owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212828> .
+
+        <http://www.wikidata.org/entity/Q100707984>
+                owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211554> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211562>
+                owl:sameAs  <http://www.wikidata.org/entity/Q3469665> .
+
+        <http://www.wikidata.org/entity/Q3559084>
+                owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211439> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211523>
+                owl:sameAs  <http://www.wikidata.org/entity/Q1759993> .
+
+        <http://www.wikidata.org/entity/Q1759993>
+                owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211523> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211439>
+                owl:sameAs  <http://www.wikidata.org/entity/Q3559084> .
+
+        <http://www.wikidata.org/entity/Q42907493>
+                owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212811> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212828>
+                owl:sameAs  <http://www.wikidata.org/entity/Q105703440> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212614>
+                owl:sameAs  <http://www.wikidata.org/entity/Q3135141> .
+
+        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212049>
+                owl:sameAs  <http://www.wikidata.org/entity/Q5890310> .
+                <http://www.wikidata.org/entity/Q121705160>
+                        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216293> .
+
+                <http://tesauros.mecd.es/tesauros/toponimiahistorica/1216293>
+                        owl:sameAs  <http://www.wikidata.org/entity/Q121705160> .
+                        <http://www.wikidata.org/entity/Q3477735>
+                                owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211486> .
+
+                        <http://www.wikidata.org/entity/Q3814961>
+                                owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212786> .
+
+                        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212786>
+                                owl:sameAs  <http://www.wikidata.org/entity/Q3814961> .
+
+                        <http://tesauros.mecd.es/tesauros/toponimiahistorica/1211486>
+                                owl:sameAs  <http://www.wikidata.org/entity/Q3477735> .
+
+                                <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212743>
+                                        owl:sameAs  <http://www.wikidata.org/entity/Q6033063> .
+
+                                <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212737>
+                                        owl:sameAs  <http://www.wikidata.org/entity/Q3615328> .
+
+                                <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217259>
+                                        owl:sameAs  <http://www.wikidata.org/entity/Q6073950> .
+
+                                <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212575>
+                                        owl:sameAs  <http://www.wikidata.org/entity/Q110658374> .
+
+                                <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217272>
+                                        owl:sameAs  <http://www.wikidata.org/entity/Q28664157> .
+
+                                <http://www.wikidata.org/entity/Q3615328>
+                                        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212737> .
+
+                                <http://www.wikidata.org/entity/Q28664157>
+                                        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217272> .
+
+                                <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212514>
+                                        owl:sameAs  <http://www.wikidata.org/entity/Q4391777> .
+
+                                <http://www.wikidata.org/entity/Q6033063>
+                                        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212743> .
+
+                                <http://www.wikidata.org/entity/Q6073950>
+                                        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217259> .
+
+                                <http://www.wikidata.org/entity/Q61520443>
+                                        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217269> .
+
+                                <http://tesauros.mecd.es/tesauros/toponimiahistorica/1217269>
+                                        owl:sameAs  <http://www.wikidata.org/entity/Q61520443> .
+
+                                <http://www.wikidata.org/entity/Q110658374>
+                                        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212575> .
+
+                                <http://www.wikidata.org/entity/Q4391777>
+                                        owl:sameAs  <http://tesauros.mecd.es/tesauros/toponimiahistorica/1212514> .
