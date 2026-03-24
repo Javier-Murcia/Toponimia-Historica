@@ -1,0 +1,1 @@
+El objetivo central de este proyecto: construir un grafo unificado de toponimia histórica, conectando con los Tesauros MEC, con Wikidata, con mi ontología de lugares de España y con mi grafo de monumentos, para permitir exploraciones semánticas avanzadas y visualización geográfica en tiempo real.
